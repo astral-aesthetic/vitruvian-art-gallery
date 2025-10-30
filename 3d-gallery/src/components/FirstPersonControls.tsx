@@ -117,7 +117,7 @@ const FirstPersonControls: React.FC = () => {
   
   return (
     <>
-      <mesh ref={playerRef} visible={false}>
+      <mesh ref={playerRef as any} visible={false}>
         <sphereGeometry args={[0.3]} />
       </mesh>
       

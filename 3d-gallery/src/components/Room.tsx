@@ -43,7 +43,7 @@ const Room: React.FC = () => {
 
   return (
     <group>
-      <mesh ref={floorRef} receiveShadow>
+      <mesh ref={floorRef as any} receiveShadow>
         <planeGeometry args={[12, 12]} />
         <meshStandardMaterial 
           map={floorTexture} 
@@ -52,7 +52,7 @@ const Room: React.FC = () => {
         />
       </mesh>
       
-      <mesh ref={frontWallRef} receiveShadow>
+      <mesh ref={frontWallRef as any} receiveShadow>
         <planeGeometry args={[12, 8]} />
         <meshStandardMaterial 
           color="#fdfdfd" 
@@ -61,7 +61,7 @@ const Room: React.FC = () => {
         />
       </mesh>
       
-      <mesh ref={backWallRef} receiveShadow>
+      <mesh ref={backWallRef as any} receiveShadow>
         <planeGeometry args={[12, 8]} />
         <meshStandardMaterial 
           color="#fdfdfd" 
@@ -70,7 +70,7 @@ const Room: React.FC = () => {
         />
       </mesh>
       
-      <mesh ref={leftWallRef} receiveShadow>
+      <mesh ref={leftWallRef as any} receiveShadow>
         <planeGeometry args={[12, 8]} />
         <meshStandardMaterial 
           color="#fdfdfd" 
@@ -79,7 +79,7 @@ const Room: React.FC = () => {
         />
       </mesh>
       
-      <mesh ref={rightWallRef} receiveShadow>
+      <mesh ref={rightWallRef as any} receiveShadow>
         <planeGeometry args={[12, 8]} />
         <meshStandardMaterial 
           color="#fdfdfd" 
@@ -88,7 +88,7 @@ const Room: React.FC = () => {
         />
       </mesh>
       
-      <mesh ref={ceilingRef} receiveShadow>
+      <mesh ref={ceilingRef as any} receiveShadow>
         <planeGeometry args={[12, 12]} />
         <meshStandardMaterial 
           color="#f8f8f8" 
