@@ -1,6 +1,5 @@
 import React, { Suspense, useState, useEffect } from 'react'
 import { Canvas } from '@react-three/fiber'
-import { Physics } from '@react-three/cannon'
 import Gallery from './components/Gallery'
 import LoadingScreen from './components/ui/LoadingScreen'
 import Instructions from './components/ui/Instructions'
@@ -91,9 +90,7 @@ function App() {
             onCreated={() => console.log('[App.tsx] Canvas created successfully')}
           >
             <Suspense fallback={null}>
-              <Physics gravity={[0, -9.82, 0]} maxSubSteps={5} stepSize={1 / 60}>
-                <Gallery />
-              </Physics>
+              <Gallery />
             </Suspense>
           </Canvas>
           

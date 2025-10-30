@@ -1,7 +1,6 @@
 import React from 'react'
 import { useTexture } from '@react-three/drei'
 import { asset } from '@/lib/utils'
-import { usePlane } from '@react-three/cannon'
 import * as THREE from 'three'
 
 const Room: React.FC = () => {
@@ -9,50 +8,20 @@ const Room: React.FC = () => {
   
   floorTexture.wrapS = floorTexture.wrapT = THREE.RepeatWrapping
   floorTexture.repeat.set(8, 6)
-  
-  const [floorRef] = usePlane(() => ({
-    rotation: [-Math.PI / 2, 0, 0],
-    position: [0, 0, 0],
-    material: { friction: 0.4, restitution: 0.1 }
-  }))
-  
-  const [frontWallRef] = usePlane(() => ({
-    position: [0, 4, -6],
-    rotation: [0, 0, 0]
-  }))
-  
-  const [backWallRef] = usePlane(() => ({
-    position: [0, 4, 6],
-    rotation: [0, Math.PI, 0]
-  }))
-  
-  const [leftWallRef] = usePlane(() => ({
-    position: [-6, 4, 0],
-    rotation: [0, Math.PI / 2, 0]
-  }))
-  
-  const [rightWallRef] = usePlane(() => ({
-    position: [6, 4, 0],
-    rotation: [0, -Math.PI / 2, 0]
-  }))
-  
-  const [ceilingRef] = usePlane(() => ({
-    rotation: [Math.PI / 2, 0, 0],
-    position: [0, 8, 0]
-  }))
 
   return (
     <group>
-      <mesh ref={floorRef as any} receiveShadow>
+      <mesh receiveShadow position={[0, 0, 0]}>
         <planeGeometry args={[12, 12]} />
         <meshStandardMaterial 
           map={floorTexture} 
           roughness={0.3}
           metalness={0.1}
         />
+        <mesh position={[0, 0, 0.001]} rotation={[-Math.PI / 2, 0, 0]} />
       </mesh>
       
-      <mesh ref={frontWallRef as any} receiveShadow>
+      <mesh receiveShadow position={[0, 4, -6]}>
         <planeGeometry args={[12, 8]} />
         <meshStandardMaterial 
           color="#fdfdfd" 
@@ -61,7 +30,7 @@ const Room: React.FC = () => {
         />
       </mesh>
       
-      <mesh ref={backWallRef as any} receiveShadow>
+      <mesh receiveShadow position={[0, 4, 6]}>
         <planeGeometry args={[12, 8]} />
         <meshStandardMaterial 
           color="#fdfdfd" 
@@ -70,7 +39,7 @@ const Room: React.FC = () => {
         />
       </mesh>
       
-      <mesh ref={leftWallRef as any} receiveShadow>
+      <mesh receiveShadow position={[-6, 4, 0]} rotation={[0, Math.PI / 2, 0]}>
         <planeGeometry args={[12, 8]} />
         <meshStandardMaterial 
           color="#fdfdfd" 
@@ -79,7 +48,7 @@ const Room: React.FC = () => {
         />
       </mesh>
       
-      <mesh ref={rightWallRef as any} receiveShadow>
+      <mesh receiveShadow position={[6, 4, 0]} rotation={[0, -Math.PI / 2, 0]}>
         <planeGeometry args={[12, 8]} />
         <meshStandardMaterial 
           color="#fdfdfd" 
@@ -88,7 +57,7 @@ const Room: React.FC = () => {
         />
       </mesh>
       
-      <mesh ref={ceilingRef as any} receiveShadow>
+      <mesh receiveShadow position={[0, 8, 0]} rotation={[Math.PI / 2, 0, 0]}>
         <planeGeometry args={[12, 12]} />
         <meshStandardMaterial 
           color="#f8f8f8" 

@@ -1,31 +1,12 @@
-import React, { useRef } from 'react'
+import React, { useRef, useEffect } from 'react'
 import { useFrame, useThree } from '@react-three/fiber'
-import { useSphere } from '@react-three/cannon'
-import { PointerLockControls } from '@react-three/drei'
 import * as THREE from 'three'
 
 const FirstPersonControls: React.FC = () => {
   const { camera } = useThree()
-  const controlsRef = useRef<any>()
-  
-  // 物理主体 - 玩家胶囊体
-  const [playerRef, api] = useSphere(() => ({
-    mass: 1,
-    type: 'Dynamic',
-    position: [0, 1.7, 3],
-    material: {
-      friction: 0.4,
-      restitution: 0.1
-    },
-    fixedRotation: true // 防止翻倒
-  }))
-  
-  const velocity = useRef([0, 0, 0])
+  const velocity = useRef(new THREE.Vector3())
   const direction = useRef(new THREE.Vector3())
-  const frontVector = useRef(new THREE.Vector3())
-  const sideVector = useRef(new THREE.Vector3())
   
-  // 键盘状态
   const keys = useRef({
     forward: false,
     backward: false,
@@ -33,8 +14,8 @@ const FirstPersonControls: React.FC = () => {
     right: false
   })
   
-  // 键盘事件监听
-  React.useEffect(() => {
+  // Keyboard controls
+  useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       switch (e.code) {
         case 'KeyW':
@@ -86,44 +67,17 @@ const FirstPersonControls: React.FC = () => {
     }
   }, [])
   
-  // 更新循环
+  // Update camera position
   useFrame(() => {
-    // 更新相机位置
-    if (playerRef.current) {
-      camera.position.copy(playerRef.current.position)
-    }
+    const speed = 0.05
     
-    // 计算移动方向
-    frontVector.current.set(0, 0, Number(keys.current.backward) - Number(keys.current.forward))
-    sideVector.current.set(Number(keys.current.left) - Number(keys.current.right), 0, 0)
-    
-    direction.current
-      .subVectors(frontVector.current, sideVector.current)
-      .normalize()
-      .multiplyScalar(2.5) // 移动速度 2.5 m/s
-      .applyEuler(camera.rotation)
-    
-    // 应用速度
-    api.velocity.set(direction.current.x, velocity.current[1], direction.current.z)
+    if (keys.current.forward) camera.position.z -= speed
+    if (keys.current.backward) camera.position.z += speed
+    if (keys.current.left) camera.position.x -= speed
+    if (keys.current.right) camera.position.x += speed
   })
   
-  // 监听速度变化
-  React.useEffect(() => {
-    const unsubscribe = api.velocity.subscribe((v) => {
-      velocity.current = v
-    })
-    return unsubscribe
-  }, [api.velocity])
-  
-  return (
-    <>
-      <mesh ref={playerRef as any} visible={false}>
-        <sphereGeometry args={[0.3]} />
-      </mesh>
-      
-      <PointerLockControls ref={controlsRef} />
-    </>
-  )
+  return null
 }
 
 export default FirstPersonControls
