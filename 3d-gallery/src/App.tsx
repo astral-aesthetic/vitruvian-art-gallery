@@ -6,12 +6,16 @@ import LoadingScreen from './components/ui/LoadingScreen'
 import Instructions from './components/ui/Instructions'
 import './App.css'
 
+console.log('[App.tsx] App component initializing')
+
 function App() {
   const [isLoading, setIsLoading] = useState(true)
   const [showInstructions, setShowInstructions] = useState(true)
 
   useEffect(() => {
+    console.log('[App.tsx] Component mounted, scheduling loader timeout')
     const timer = setTimeout(() => {
+      console.log('[App.tsx] Loading complete, showing canvas')
       setIsLoading(false)
     }, 2000)
     return () => clearTimeout(timer)
@@ -20,6 +24,7 @@ function App() {
   useEffect(() => {
     if (!isLoading) {
       const timer = setTimeout(() => {
+        console.log('[App.tsx] Hiding instructions')
         setShowInstructions(false)
       }, 8000)
       return () => clearTimeout(timer)
@@ -27,6 +32,7 @@ function App() {
   }, [isLoading])
 
   const toggleInstructions = () => {
+    console.log('[App.tsx] Toggling instructions')
     setShowInstructions(!showInstructions)
   }
 
