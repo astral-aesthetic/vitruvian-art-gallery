@@ -4,12 +4,13 @@ import { ErrorBoundary } from './components/ErrorBoundary.tsx'
 import './index.css'
 import App from './App.tsx'
 
-console.log('[main.tsx] Starting app, base:', (import.meta as any).env?.BASE_URL || '/')
+console.log('[main.tsx] Script executing, base:', (import.meta as any).env?.BASE_URL || '/')
 
 try {
+  console.log('[main.tsx] Starting app...')
   const rootEl = document.getElementById('root')
   if (!rootEl) {
-    throw new Error('Root element not found')
+    throw new Error('Root element #root not found in DOM')
   }
   console.log('[main.tsx] Root element found, creating React root')
   
@@ -20,12 +21,13 @@ try {
       </ErrorBoundary>
     </StrictMode>,
   )
-  console.log('[main.tsx] React app rendered successfully')
+  console.log('[main.tsx] App rendered successfully')
 } catch (err) {
-  console.error('[main.tsx] Fatal error during app startup:', err)
-  document.body.innerHTML = `<div style="padding:20px;color:red;font-family:monospace;">
-    <h2>App Error</h2>
-    <p>${String(err)}</p>
-    <pre>${(err instanceof Error ? err.stack : String(err))}</pre>
-  </div>`
+  console.error('[main.tsx] Fatal startup error:', err)
+  const errorEl = document.getElementById('error-overlay')
+  const detailEl = document.getElementById('error-detail')
+  if (errorEl && detailEl) {
+    detailEl.textContent = `${err instanceof Error ? err.name : 'Error'}: ${err instanceof Error ? err.message : String(err)}\n\n${err instanceof Error ? err.stack : ''}`
+    errorEl.classList.add('visible')
+  }
 }

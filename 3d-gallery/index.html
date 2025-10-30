@@ -9,10 +9,37 @@
 
 <body>
   <div id="root"></div>
+  <div id="error-overlay" style="display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: #1a1a1a; color: #ff6b6b; padding: 20px; overflow: auto; z-index: 9999; font-family: monospace; font-size: 12px;">
+    <h2 style="margin-top: 0; color: #ffa07a;">⚠ Application Failed to Load</h2>
+    <p>An error occurred during startup. Details:</p>
+    <pre id="error-detail" style="background: #0a0a0a; padding: 10px; border-left: 3px solid #ff6b6b; overflow-x: auto;">Loading...</pre>
+  </div>
+  
   <script>
-    // quick load marker to help debug runtime failures before the ESM bundle runs
+    // Global error handlers to catch module load failures before React mounts
+    window.addEventListener('error', (event) => {
+      console.error('[global] Error caught:', event.error)
+      const overlay = document.getElementById('error-overlay')
+      const detail = document.getElementById('error-detail')
+      if (overlay && detail) {
+        detail.textContent = `${event.error?.name || 'Error'}: ${event.error?.message || event.message}\n\nFile: ${event.filename}\nLine: ${event.lineno}:${event.colno}\n\n${event.error?.stack || ''}`
+        overlay.style.display = 'block'
+      }
+    })
+    
+    window.addEventListener('unhandledrejection', (event) => {
+      console.error('[global] Unhandled rejection:', event.reason)
+      const overlay = document.getElementById('error-overlay')
+      const detail = document.getElementById('error-detail')
+      if (overlay && detail) {
+        detail.textContent = `Unhandled Promise: ${event.reason?.message || String(event.reason)}\n\n${event.reason?.stack || ''}`
+        overlay.style.display = 'block'
+      }
+    })
+    
     console.log('index.html loaded — base URI:', document.baseURI);
   </script>
+  
   <script type="module" src="/src/main.tsx"></script>
 </body>
 
