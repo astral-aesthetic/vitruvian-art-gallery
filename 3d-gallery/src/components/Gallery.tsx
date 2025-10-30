@@ -6,15 +6,21 @@ import FirstPersonControls from './FirstPersonControls'
 import { Sky } from '@react-three/drei'
 
 const Gallery: React.FC = () => {
-  return (
-    <>
-      <Sky sunPosition={[0, 1, 0]} />
-      <Lighting />
-      <Room />
-      <Paintings />
-      <FirstPersonControls />
-    </>
-  )
+  try {
+    console.log('[Gallery] Rendering three.js gallery scene')
+    return (
+      <>
+        <Sky sunPosition={[0, 1, 0]} />
+        <Lighting />
+        <Room />
+        <Paintings />
+        <FirstPersonControls />
+      </>
+    )
+  } catch (err) {
+    console.error('[Gallery] Render error:', err)
+    throw err
+  }
 }
 
 export default Gallery
