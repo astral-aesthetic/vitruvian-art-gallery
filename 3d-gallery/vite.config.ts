@@ -5,7 +5,7 @@ import sourceIdentifierPlugin from 'vite-plugin-source-info'
 
 const isProd = process.env.BUILD_MODE === 'prod'
 export default defineConfig({
-  base: '/vitruvian-art-gallery/', // GitHub Pages base path
+  base: process.env.NODE_ENV === 'production' ? '/vitruvian-art-gallery/' : '/',
   plugins: [
     react(), 
     sourceIdentifierPlugin({
