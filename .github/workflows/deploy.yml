@@ -40,6 +40,8 @@ jobs:
         run: |
           cd 3d-gallery
           pnpm run build
+          # Add SPA fallback for GitHub Pages
+          cp dist/index.html dist/404.html
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
