@@ -1,10 +1,11 @@
 import React from 'react'
 import { useTexture } from '@react-three/drei'
+import { asset } from '@/lib/utils'
 import { usePlane } from '@react-three/cannon'
 import * as THREE from 'three'
 
 const Room: React.FC = () => {
-  const floorTexture = useTexture('/textures/dark_walnut_wood_floor_seamless_texture_3d.jpg')
+  const floorTexture = useTexture(asset('textures/dark_walnut_wood_floor_seamless_texture_3d.jpg'))
   
   floorTexture.wrapS = floorTexture.wrapT = THREE.RepeatWrapping
   floorTexture.repeat.set(8, 6)
