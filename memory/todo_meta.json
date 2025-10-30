@@ -1,0 +1,13 @@
+{
+  "todos": {
+    "Coordinator": {
+      "1": {
+        "id": "1",
+        "content": "Add image upload and replacement feature to 3D gallery",
+        "details": "Implement a comprehensive image management system that allows users to:\n\n**Core Features:**\n1. **ESC Key Handler**: Press ESC to open image management overlay\n2. **Image Preview UI**: Display all 12 current artworks grouped by wall position\n3. **Upload Functionality**: Each image has an upload button for local file replacement\n4. **Dynamic Texture Update**: Replace 3D scene textures in real-time\n5. **User Guidance**: Corner hint text 'Press ESC to replace the image.'\n\n**Technical Implementation:**\n- ESC key event listener to toggle overlay\n- Modal/overlay UI with grid layout showing current images\n- File input elements for each artwork position\n- Image loading and validation (format, size checks)\n- Three.js texture replacement without scene reload\n- Local storage/session persistence for user uploads\n- Wall grouping: North (3), South (3), East (3), West (3)\n\n**UI/UX Design:**\n- Clean overlay design matching gallery aesthetic\n- Thumbnail previews of current artworks\n- Clear wall position labels\n- Upload progress indicators\n- Close overlay functionality\n- Responsive design for different screen sizes",
+        "status": "completed",
+        "priority": "high"
+      }
+    }
+  }
+}

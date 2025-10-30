@@ -1,0 +1,1614 @@
+[
+  {
+    "query": "具象绘画作品，艺术画廊展览级别",
+    "image_info": {
+      "url": "https://www.icaboston.org/wp-content/uploads/2023/03/exhibitionapfmmel-taing1a3a9139-900x600.jpg",
+      "file_path": "/workspace/imgs/modern_art_gallery_exhibition_figurative_paintings.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 69139,
+      "width": 900,
+      "height": 600,
+      "total_pixels": 540000,
+      "basic_score": 0.8643061006504659
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 98.0,
+      "watermark_score": 100.0,
+      "overall_score": 97.0,
+      "explanation": "The image is highly relevant to the search query, clearly depicting a modern art gallery with an exhibition of large, predominantly figurative paintings. The image quality is excellent, with superb clarity, professional lighting, and no watermarks. The composition effectively showcases the gallery space and the artworks.",
+      "file_name": "modern_art_gallery_exhibition_figurative_paintings.jpg",
+      "caption": "A wide shot of a spacious, contemporary art gallery exhibiting several large-scale, colorful figurative paintings on pristine white walls. The polished concrete floor reflects the vibrant artworks and the overhead grid lighting. In the center, two minimalist black benches are positioned for visitors. The painting on the left vividly portrays a bustling scene with numerous figures, while other artworks in the background display dynamic colors and expressive, semi-abstract forms, all contributing to a professional gallery exhibition atmosphere.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "具象绘画作品，艺术画廊展览级别",
+    "image_info": {
+      "url": "https://img.artlogic.net/w_1010,h_580,c_limit/exhibit-e/54ca5ddf07a72cd65564cf6c/374092ee8fc4cebcfadb7c790a960b24.jpeg",
+      "file_path": "/workspace/imgs/figurative_paintings_art_gallery_exhibition.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 82587,
+      "width": 987,
+      "height": 580,
+      "total_pixels": 572460,
+      "basic_score": 0.8718685417298607
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 85.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image perfectly matches the search query and prompt, clearly depicting two large figurative paintings in a modern art gallery exhibition setting. The clarity is very good, showcasing the art and the space effectively, and there are no watermarks. The composition and lighting contribute to a professional and inviting view of the exhibition.",
+      "file_name": "figurative_paintings_art_gallery_exhibition.jpg",
+      "caption": "Two large, vibrant figurative paintings featuring landscapes and human figures are prominently displayed on white walls within a spacious, modern art gallery. The well-lit exhibition space, with its polished concrete floor, creates an inviting atmosphere for art appreciation. An 'EXIT' sign is visible in the background, characteristic of a public art institution.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "具象绘画作品，艺术画廊展览级别",
+    "image_info": {
+      "url": "https://cdn.zabludowiczcollection.com/uploads/exhibitions-events/_halfFull/The-Stand-Ins-Figurative-Painting-from-the-Collection-at-Zabludowicz-Collection-London-Art-Gallery-9.jpg?v=1729895671",
+      "file_path": "/workspace/imgs/figurative_painting_art_gallery_exhibition.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 60667,
+      "width": 1008,
+      "height": 672,
+      "total_pixels": 677376,
+      "basic_score": 0.8947922559037405
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 75.0,
+      "watermark_score": 100.0,
+      "overall_score": 85.0,
+      "explanation": "The image perfectly matches the search query, showing figurative paintings within an art gallery exhibition setting. The composition is excellent, and the lighting effectively highlights the artworks and the gallery space. However, the clarity of the paintings themselves, particularly the textures and fine details, is slightly soft, preventing a higher clarity score. There are no watermarks.",
+      "file_name": "figurative_painting_art_gallery_exhibition.jpg",
+      "caption": "A view of three figurative paintings displayed on a minimalist white wall in a contemporary art gallery exhibition. The leftmost painting features a large, human-like figure with robust forms, framed within a Gothic-style architectural archway. The central painting prominently displays a pair of legs adorned in shiny black, high-heeled, over-the-knee boots. Further to the right, a smaller, darker painting showcases abstract golden forms. The highly reflective dark floor mirrors the bright gallery walls, enhancing the sleek, modern aesthetic of the exhibition space.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "具象绘画作品，艺术画廊展览级别",
+    "image_info": {
+      "url": "https://imengine.prod.srp.navigacloud.com/?uuid=0f8f5d22-515f-5c82-a551-150b114c44d8&type=primary&q=75&width=1024",
+      "file_path": "/workspace/imgs/figurative_paintings_art_gallery_exhibition.jpg_2f",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 75591,
+      "width": 1024,
+      "height": 768,
+      "total_pixels": 786432,
+      "basic_score": 0.9145192243520314
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, depicting figurative paintings displayed in a clean, professional art gallery exhibition setting. The clarity is excellent, and there are no watermarks. The overall composition and lighting are outstanding, making it a high-quality visual representation of the subject.",
+      "file_name": "figurative_paintings_art_gallery_exhibition.jpg",
+      "caption": "Three contemporary figurative paintings are displayed on a pristine white wall in a modern art gallery exhibition. The painting on the left features two abstract figures in vibrant blue and dark tones. The central painting shows two figures in a muted, textured palette of white and grey. The painting on the right depicts a lone figure with a green face and white drapery, featuring earthy and green accents. The gallery space has a minimalist aesthetic with a concrete floor and industrial-style ceiling elements.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "具象绘画作品，艺术画廊展览级别",
+    "image_info": {
+      "url": "https://cdn.zabludowiczcollection.com/uploads/exhibitions-events/_halfFull/The-Stand-Ins-Figurative-Painting-from-the-Collection-at-Zabludowicz-Collection-London-Art-Gallery-2.jpg?v=1729895670",
+      "file_path": "/workspace/imgs/figurative_painting_art_gallery_exhibition.jpg_0c",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 97325,
+      "width": 1008,
+      "height": 672,
+      "total_pixels": 677376,
+      "basic_score": 0.8987474842814247
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is perfectly relevant to the search query, showcasing an art gallery exhibition featuring multiple figurative paintings. The clarity is excellent, with good lighting and sharp details throughout the space. There are no watermarks. The overall composition and professional quality are outstanding, effectively capturing the ambiance of an exhibition.",
+      "file_name": "figurative_painting_art_gallery_exhibition.jpg",
+      "caption": "A well-lit, wide shot of a spacious art gallery exhibition, showcasing several contemporary figurative paintings. In the foreground, a prominent large painting depicts two figures, one with a green leafy headpiece, holding a baby. On the upper mezzanine level, additional figurative artworks are displayed. The gallery space features high ceilings, classical architectural details, arched windows allowing natural light, and a polished concrete floor, creating an inviting atmosphere for art appreciation.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "抽象绘画作品，艺术博物馆展览级别",
+    "image_info": {
+      "url": "http://blokmagazine.com/wp-content/uploads/2018/08/20180509-9503-1200x800.jpg",
+      "file_path": "/workspace/imgs/abstract_art_museum_exhibition.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 84585,
+      "width": 1200,
+      "height": 800,
+      "total_pixels": 960000,
+      "basic_score": 0.9315459299277192
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, clearly depicting multiple abstract paintings within a professional art museum exhibition setting. The clarity and resolution are excellent, with sharp details and balanced lighting. There are no watermarks. The overall composition and professional presentation of the artwork contribute to a high-quality visual experience.",
+      "file_name": "abstract_art_museum_exhibition.jpg",
+      "caption": "An interior view of a modern art museum or gallery, showcasing an exhibition of diverse abstract paintings. In the foreground, a prominent abstract painting features concentric circles in vibrant shades of green, dark blue, and black, with a luminous white center, displayed on a white partition wall. To the left, two smaller abstract works with a black and white stippled or pixelated gradient are visible. On the right, another large abstract painting with warm brown and gold concentric circles is displayed on a grey wall. The museum space boasts polished wooden floors, modern track lighting, and an impressive high ceiling with exposed wooden beams, creating a sophisticated and inviting exhibition atmosphere.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "抽象绘画作品，艺术博物馆展览级别",
+    "image_info": {
+      "url": "https://i.ytimg.com/vi/ciOoyC5Qpj8/maxresdefault.jpg",
+      "file_path": "/workspace/imgs/abstract_paintings_art_museum_exhibition.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 43519,
+      "width": 1280,
+      "height": 720,
+      "total_pixels": 921600,
+      "basic_score": 0.9241424252236125
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 70.0,
+      "watermark_score": 100.0,
+      "overall_score": 80.0,
+      "explanation": "The image is highly relevant to both the search query and prompt, clearly depicting abstract paintings in an art museum exhibition setting. There are no watermarks. The composition and lighting are good, effectively showcasing the artworks. However, the image lacks crispness and sharpness, which slightly impacts its overall clarity and prevents a higher overall score.",
+      "file_name": "abstract_paintings_art_museum_exhibition.jpg",
+      "caption": "Three vibrant abstract paintings displayed on a white wall in an art museum or gallery. The left painting features shades of blue and green, the central piece is a striking mix of red, orange, and purple, and the right artwork is predominantly blue. The polished wooden floor reflects the colors of the paintings, adding depth to the exhibition view. The space is well-lit, highlighting the textures and hues of the contemporary artworks.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "抽象绘画作品，艺术博物馆展览级别",
+    "image_info": {
+      "url": "https://parrishart.org/wp-content/uploads/2018/11/052_Frankenthaler_VIP_JennyGorman_8.4.19-1774-1400x933.jpg",
+      "file_path": "/workspace/imgs/abstract_painting_art_museum_exhibition.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 96162,
+      "width": 1400,
+      "height": 933,
+      "total_pixels": 1306200,
+      "basic_score": 0.9136719588079842
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, clearly depicting an abstract painting within a modern art museum exhibition. The clarity, composition, and lighting are excellent, making it a high-quality professional photograph with no watermarks.",
+      "file_name": "abstract_painting_art_museum_exhibition.jpg",
+      "caption": "Two visitors, a woman pointing and a man observing, admire a large, vibrant abstract painting featuring bold blue, yellow, and green organic shapes, displayed prominently on a white wall in a spacious, brightly lit art museum exhibition hall. Other artworks are visible in the background, contributing to the contemporary gallery ambiance.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "抽象绘画作品，艺术博物馆展览级别",
+    "image_info": {
+      "url": "https://www.modernamuseet.se/stockholm/wp-content/uploads/sites/3/2013/02/Hilma-af-Klint_utstallningsvy_MM2013-980x586.jpg",
+      "file_path": "/workspace/imgs/abstract_paintings_art_museum_exhibition.jpg_bc",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 170203,
+      "width": 980,
+      "height": 586,
+      "total_pixels": 574280,
+      "basic_score": 0.8804254260492292
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, clearly depicting a well-lit art museum exhibition featuring multiple large abstract paintings. The clarity and composition are excellent, showcasing the artworks and the gallery space effectively. There are no watermarks present.",
+      "file_name": "abstract_paintings_art_museum_exhibition.jpg",
+      "caption": "A wide-angle view of a contemporary art museum exhibition hall showcasing a series of large, vibrantly colored abstract paintings, typical of Hilma af Klint's style, displayed against a clean white wall. Two visitors stand admiring the artworks, providing a sense of scale within the spacious gallery, which features a polished wooden floor and natural light filtering in from overhead skylights.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "抽象绘画作品，艺术博物馆展览级别",
+    "image_info": {
+      "url": "https://npr.brightspotcdn.com/72/cd/dd3be7fe46acaceac43eb050dde8/general-exhibition-view.jpeg",
+      "file_path": "/workspace/imgs/abstract_painting_art_museum_exhibition_gallery.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 85596,
+      "width": 1200,
+      "height": 800,
+      "total_pixels": 960000,
+      "basic_score": 0.9316472511249957
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, clearly depicting an art museum exhibition with multiple abstract paintings and sculptures. The clarity is excellent, with sharp details and good lighting, and there are no watermarks. The composition is professional, effectively showcasing the art and the museum environment.",
+      "file_name": "abstract_painting_art_museum_exhibition_gallery.jpg",
+      "caption": "An expansive view of a modern art museum exhibition hall, featuring several large abstract paintings displayed on clean white walls. The paintings showcase vibrant colors and various patterns, including horizontal stripes in shades of yellow, blue, green, and red, and a prominent blue and red vertical striped artwork. Sculptural works are presented on white pedestals in the foreground and midground, complementing the paintings. The museum space features polished wooden floors with dark inlays, minimalist architecture, and ample lighting, creating a serene and spacious environment for art appreciation. A long dark brown bench is visible in the background, offering a resting spot for visitors.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "静物画作品，古典艺术画廊展示",
+    "image_info": {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/437053/796070/main-image",
+      "file_path": "/workspace/imgs/classical_still_life_painting_fruits_bread_gallery_art.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 176814,
+      "width": 1200,
+      "height": 827,
+      "total_pixels": 992400,
+      "basic_score": 0.9406909948210113
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 96.0,
+      "explanation": "The image is a high-quality reproduction of a classical still life painting, perfectly matching the 'still life painting' and 'classical art' aspects of the query. While it doesn't show a gallery interior, it is precisely the type of artwork found in a classical art gallery. The clarity is excellent, with fine details and vibrant colors. There are no distracting watermarks, only the artist's signature, which is part of the original artwork. The composition and execution of the painting itself are masterful, making it a professional and visually appealing image.",
+      "file_name": "classical_still_life_painting_fruits_bread_gallery_art.jpg",
+      "caption": "A richly detailed classical still life painting featuring an abundant arrangement of fruits, bread, and various vessels set against a dark, lush background with a distant landscape. The foreground showcases a profusion of green and black grapes in a wicker basket, alongside a halved cantaloupe melon, yellow apricots or peaches on a white plate, and several quinces. To the right, a basket holds fresh bread rolls and a white cloth, while copper pots and a lidded dish are visible on the left. The artist's signature is subtly present in the bottom right corner, characteristic of Dutch Golden Age or similar period artwork.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "静物画作品，古典艺术画廊展示",
+    "image_info": {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/436752/802670/main-image",
+      "file_path": "/workspace/imgs/classical_still_life_painting_fruits_lizard.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 264337,
+      "width": 1200,
+      "height": 1010,
+      "total_pixels": 1212000,
+      "basic_score": 0.9309210079804128
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 88.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image is a beautiful and clear representation of a classical still life painting, perfectly matching the 'still life painting' and 'classical art' aspects of the search query. The quality of the reproduction is high, showcasing intricate details of the artwork. It is the type of artwork commonly displayed in an art gallery, fulfilling the implied context of the query. There are no watermarks.",
+      "file_name": "classical_still_life_painting_fruits_lizard.jpg",
+      "caption": "A richly detailed classical still life oil painting featuring an abundance of fruits, including prominent pomegranates (one cut open to reveal its seeds), clusters of green and white grapes, apples, and figs. A small lizard is depicted crawling on a rock in the foreground, and a delicate butterfly rests near the top left, adding to the intricate composition set against a dark, rocky landscape background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "静物画作品，古典艺术画廊展示",
+    "image_info": {
+      "url": "https://www.ashmolean.org/sites/default/files/styles/listing_landscape_image/public/ashmolean/images/media/still1800_0.jpg?itok=SJ2rZrLO",
+      "file_path": "/workspace/imgs/classical_still_life_painting_olives_oysters_citrus.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 118008,
+      "width": 1728,
+      "height": 520,
+      "total_pixels": 898560,
+      "basic_score": 0.8580515718753609
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is a classic example of a still life painting, perfectly aligning with the 'still life painting classical art gallery' search query and prompt. The clarity is excellent, allowing for clear appreciation of the detailed brushwork and textures. There are no watermarks. The overall quality, composition, and lighting are outstanding, making it a professional-grade representation of classical art.",
+      "file_name": "classical_still_life_painting_olives_oysters_citrus.jpg",
+      "caption": "A finely detailed classical still life oil painting featuring a bowl of green olives, several opened oysters, and a partially peeled citrus fruit, likely a pomelo or large orange. The objects are arranged on a dark wooden surface against a dark background, with faint reflections in glass stemware visible in the upper right. The painting showcases rich textures and masterly use of light and shadow.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "静物画作品，古典艺术画廊展示",
+    "image_info": {
+      "url": "https://www.ashmolean.org/sites/default/files/styles/listing_image_gallery_image/public/ashmolean/images/media/still18003_0.jpg?itok=L4pOWbZ5",
+      "file_path": "/workspace/imgs/classical_still_life_flower_painting_art_gallery.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 162695,
+      "width": 1728,
+      "height": 816,
+      "total_pixels": 1410048,
+      "basic_score": 0.8723802594884293
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is an excellent match for the search query and prompt, depicting a classical still life painting. It boasts exceptional clarity and resolution, showcasing intricate details without any watermarks. The overall quality, composition, and artistic style are outstanding, making it highly suitable for art gallery themes.",
+      "file_name": "classical_still_life_flower_painting_art_gallery.jpg",
+      "caption": "A magnificent classical still life oil painting featuring a vibrant, opulent bouquet of diverse flowers, including light pink and cream roses, red and cream striped tulips, deep red carnations, and various other blossoms. The detailed composition, characteristic of Dutch Golden Age art, is set against a dark, moody background, which enhances the rich colors and textures. Delicate elements like a butterfly and a beetle are subtly integrated into the foliage, adding to the realism and depth. This piece exemplifies classical artistry suitable for display in an esteemed art gallery.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "静物画作品，古典艺术画廊展示",
+    "image_info": {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/435904/795798/main-image",
+      "file_path": "/workspace/imgs/classical_vanitas_still_life_painting_skull_lamp.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 138726,
+      "width": 1200,
+      "height": 809,
+      "total_pixels": 970800,
+      "basic_score": 0.9371687079266742
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, depicting a classic still life painting, likely a vanitas piece, of high quality and suitable for an art gallery context. The clarity is excellent, showing fine details of the artwork without any watermarks.",
+      "file_name": "classical_vanitas_still_life_painting_skull_lamp.jpg",
+      "caption": "A finely detailed classical still life oil painting, characteristic of the 17th century, featuring a human skull as the central element. Alongside the skull, other symbolic objects include an extinguished terracotta oil lamp emitting a wisp of smoke, a quill pen and inkwell, a leather-bound book, loose papers, and an ornate, overturned glass. The painting uses a dark, somber palette, typical of vanitas works, emphasizing themes of mortality and the transient nature of life and worldly possessions. The artist's signature 'P.I.' and date '1650' are visible in the upper right corner, affirming its historical significance and making it ideal for a classical art gallery display.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "现代艺术绘画，当代画廊展示作品",
+    "image_info": {
+      "url": "https://d7hftxdivxxvm.cloudfront.net/?quality=80&resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FXEC8kwxXDIk-AM58pFDuNg%252F193-Gallery-AFIRIKA-ARTFEST-We-are-enough-Group-Exhibition-Part-1-03152023_095000.jpg&width=910",
+      "file_path": "/workspace/imgs/vibrant_contemporary_art_gallery_exhibition.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 121124,
+      "width": 910,
+      "height": 520,
+      "total_pixels": 473200,
+      "basic_score": 0.8512184562461799
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is perfectly relevant to the search query, depicting a vibrant contemporary art gallery showcasing modern artworks and installations. The clarity is excellent, with no watermarks. The composition and lighting are professional, creating a highly engaging and appealing visual.",
+      "file_name": "vibrant_contemporary_art_gallery_exhibition.jpg",
+      "caption": "An interior view of a vibrant contemporary art gallery featuring unique installations and paintings. The room is adorned with textured pink walls, accented by bold purple sections and a crisp white wooden floor. On display are various modern artworks, including a prominent three-dimensional piece resembling green bananas with a red flower, a large framed painting with a green furry border depicting a person, and colorful tapestries with abstract designs visible in the background exhibition space.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "现代艺术绘画，当代画廊展示作品",
+    "image_info": {
+      "url": "https://ago.ca/sites/default/files/styles/hero_slide_mobile/public/2017-11/049A3452.jpg?itok=bNl7BayN",
+      "file_path": "/workspace/imgs/modern_contemporary_art_gallery_exhibition.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 83102,
+      "width": 1279,
+      "height": 480,
+      "total_pixels": 613920,
+      "basic_score": 0.8272550121244129
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 92.0,
+      "watermark_score": 100.0,
+      "overall_score": 93.0,
+      "explanation": "The image is highly relevant, perfectly matching the search query and prompt by showcasing modern and contemporary art pieces (a painting and two sculptures) within a gallery setting. The clarity is excellent for the artworks, and the intentional motion blur of the visitors adds a dynamic, authentic feel without compromising the main subjects. There are no watermarks, and the overall composition, lighting, and professional quality are outstanding.",
+      "file_name": "modern_contemporary_art_gallery_exhibition.jpg",
+      "caption": "A panoramic view inside a contemporary art gallery, featuring a diverse display of modern artworks. On the left, a vibrant abstract painting with colorful geometric shapes and lines is framed on a white wall. In the center, a minimalist black metal sculpture with abstract, angular forms stands on a white pedestal. To the right, a textured, bronze-colored abstract sculpture, appearing almost organic and layered, is showcased on another white pedestal. Two blurred figures, visitors to the gallery, are seen walking through the space, adding a sense of movement and presence. The bright, clean white walls and polished floors emphasize the modern aesthetic of the exhibition space.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "现代艺术绘画，当代画廊展示作品",
+    "image_info": {
+      "url": "https://storage.googleapis.com/onmilwaukee-article-images/variants/2ushufixo1jg87vwsop22hfntinx/44487ed8fba0f2b82d9d5c8e9a98ed4b9d67f7c75e21d8b1a6cda1869e8697fd",
+      "file_path": "/workspace/imgs/modern_contemporary_art_gallery_exhibition.jpg_c2",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 277284,
+      "width": 1600,
+      "height": 1200,
+      "total_pixels": 1920000,
+      "basic_score": 0.7750133310778379
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, clearly depicting a modern art gallery with contemporary paintings on display. It exhibits excellent clarity, professional lighting, and a well-composed scene. There are no watermarks, contributing to its high quality.",
+      "file_name": "modern_contemporary_art_gallery_exhibition.jpg",
+      "caption": "An expansive interior view of a pristine modern art gallery, featuring a collection of vibrant contemporary paintings meticulously displayed on clean white walls. The polished light-colored wooden floor reflects the bright illumination provided by ceiling-mounted track lights. A black leather bench is centrally placed for visitors, and a person is seen walking through the exhibition space, adding a sense of scale and activity to the serene environment.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "现代艺术绘画，当代画廊展示作品",
+    "image_info": {
+      "url": "https://cdn.saam.media/-ibPIdwYZKFBaBbKztHE-Fj077o/960/0/center/cover/jpg/https%3A%2F%2Fd3ec1vt3scx7rr.cloudfront.net%2Ffiles%2Fimages%2Fimage%2F1695409390%2FSAAM-AVV_photo_by_Albert_Ting%2520%25283%2529_home%2520page%2520crop.jpg",
+      "file_path": "/workspace/imgs/modern_contemporary_art_gallery_exhibition_interior.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 74417,
+      "width": 960,
+      "height": 537,
+      "total_pixels": 515520,
+      "basic_score": 0.8575690763695036
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is exceptionally relevant to the search query and prompt, clearly depicting a contemporary art gallery with a strong focus on modern paintings and a unique sculptural art installation. The clarity is excellent, with sharp details and good lighting throughout the scene. There are no watermarks or logos present. The composition is well-balanced, effectively showcasing the gallery space and the diverse artworks, making it a high-quality professional image.",
+      "file_name": "modern_contemporary_art_gallery_exhibition_interior.jpg",
+      "caption": "An interior view of a spacious, well-lit modern art gallery, featuring an exhibition of contemporary paintings and a striking large, dark, intricate mesh sculpture suspended from the ceiling. The gallery boasts clean white walls, light wooden floors, and modern track lighting. Various abstract and contemporary artworks adorn the walls, including a vibrant abstract expressionist painting and colorful pieces with geometric elements. The text 'PATRICIA AND PHILLIP FROST GALLERY' is visible on the far wall, identifying the exhibition space.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "现代艺术绘画，当代画廊展示作品",
+    "image_info": {
+      "url": "https://cdn.artcld.com/img/3ooa9e2i4medoaf4mn1d.gif",
+      "file_path": "/workspace/imgs/modern_abstract_agave_painting_contemporary_art.jpg",
+      "img_format": "GIF",
+      "mode": "P",
+      "file_size": 1067940,
+      "width": 900,
+      "height": 887,
+      "total_pixels": 798300,
+      "basic_score": 0.9099843736847878
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is an excellent example of modern or contemporary art, fitting perfectly with the 'modern art painting' and 'contemporary gallery' aspects of the search query and prompt. Its abstract representation of an agave plant, vibrant colors, and textured appearance contribute to its high aesthetic quality. The image is clear, well-resolved, and free of watermarks.",
+      "file_name": "modern_abstract_agave_painting_contemporary_art.jpg",
+      "caption": "A vibrant and textural modern art painting depicting an abstract interpretation of an agave plant. The composition features sharp, geometric lines and a rich palette of blues, greens, and ochre yellows, suggesting a contemporary style suitable for a gallery display. The layered effect adds depth and visual interest.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "自然题材绘画，植物艺术博物馆级别",
+    "image_info": {
+      "url": "https://www.cjonline.com/gcdn/authoring/2019/10/04/NTCJ/ghows-KS-94207f78-231d-155c-e053-0100007fdc73-dc0236a8.jpeg?width=660&height=502&fit=crop&format=pjpg&auto=webp",
+      "file_path": "/workspace/imgs/historical_botanical_tulip_illustration_museum_art.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 39050,
+      "width": 660,
+      "height": 502,
+      "total_pixels": 331320,
+      "basic_score": 0.7977028245293212
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 88.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image is a pristine example of historical botanical art, featuring detailed illustrations of variegated tulips with insects, directly aligning with 'nature painting' and 'botanical art.' Its museum-level quality is evident in the detailed rendering and historical aesthetic. The image is clear and free of watermarks, making it highly suitable.",
+      "file_name": "historical_botanical_tulip_illustration_museum_art.jpg",
+      "caption": "A richly detailed historical botanical illustration, likely a watercolor or gouache painting, showcasing four variegated tulips with distinct red and white striped petals. The illustration also features a brown butterfly and a green grasshopper, adding to the natural theme. The artwork exhibits meticulous detail typical of museum-grade botanical art from a historical folio, presented against a light, aged paper background with faint handwritten notes below some of the blooms.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "自然题材绘画，植物艺术博物馆级别",
+    "image_info": {
+      "url": "https://cdn2.atlantamagazine.com/wp-content/uploads/sites/4/2023/03/jstella_treeofmylife_courtesy.jpg",
+      "file_path": "/workspace/imgs/vibrant_botanical_fantasy_painting.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 777697,
+      "width": 1200,
+      "height": 1326,
+      "total_pixels": 1591200,
+      "basic_score": 0.8678233103457669
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is an exquisite and highly detailed painting of a rich, fantastical botanical scene, making it exceptionally relevant to 'nature painting' and 'botanical art'. Its complex composition, vibrant colors, and artistic quality clearly suggest a 'museum level' artwork. The image itself is high-resolution, clear, and free of any watermarks.",
+      "file_name": "vibrant_botanical_fantasy_painting.jpg",
+      "caption": "A vibrant and intricate painting depicting a dense, fantastical botanical garden or forest. The artwork is rich with diverse plant life, including large, stylized flowers, delicate vines, and intricate foliage in various shades of green, blue, purple, and orange. A prominent tree trunk forms the central axis, around which complex patterns, possibly resembling celestial bodies or ornate architectural elements, are interwoven into the background. Small details like butterflies and birds are subtly integrated throughout the lush, dreamlike landscape. The style is highly detailed and surreal, blending natural forms with imaginative, ornate designs.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "自然题材绘画，植物艺术博物馆级别",
+    "image_info": {
+      "url": "https://www.nhm.ac.uk/content/dam/nhm-www/discover/art-of-British-natural-history/barbara-nicholson-plant-habitat-illustration-full-width.jpg.thumb.1160.1160.png",
+      "file_path": "/workspace/imgs/botanical_wetland_nature_painting_museum_art.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 273663,
+      "width": 1160,
+      "height": 600,
+      "total_pixels": 696000,
+      "basic_score": 0.9110226717633327
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is an exquisite and meticulously detailed botanical painting, perfectly matching 'nature painting' and 'botanical art' aspects of the query. Its high artistic quality, clarity, and absence of watermarks strongly align with a 'museum level' standard. The composition is rich, educational, and visually appealing.",
+      "file_name": "botanical_wetland_nature_painting_museum_art.jpg",
+      "caption": "A meticulously detailed botanical painting depicting a vibrant wetland ecosystem, showcasing a diverse array of aquatic and semi-aquatic plants. The art features prominent yellow water irises, yellow pond-lilies, bulrushes, cattails, pink flowering rush, purple loosestrife, and various other flowering plants and grasses, all rendered with scientific precision. A calm body of water with distant trees and a landscape is visible in the background, characteristic of high-quality natural history or botanical museum art.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "自然题材绘画，植物艺术博物馆级别",
+    "image_info": {
+      "url": "https://www.nortonsimon.org/assets/events-images/cd2b36efe5/Davidzoon-Vase-733.jpg",
+      "file_path": "/workspace/imgs/classical_dutch_botanical_still_life_painting.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 311068,
+      "width": 591,
+      "height": 733,
+      "total_pixels": 433203,
+      "basic_score": 0.8543609511707743
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image is a perfect match for the search query and prompt, being a high-quality, classical botanical still-life painting suitable for a museum collection. It exhibits excellent clarity, vibrant colors, and meticulous detail, with no watermarks.",
+      "file_name": "classical_dutch_botanical_still_life_painting.jpg",
+      "caption": "A rich and intricate classical oil painting, depicting an abundant still life bouquet of various flowers, including red and white striped tulips, pink and white roses, red peonies, and blue irises, arranged in a dark, fluted glass vase. The arrangement is set against a dark background, with additional elements such as an orange, pea pods, red currants, and small insects (butterflies, a bee, a snail) scattered on the table surface. This detailed artwork exemplifies museum-quality botanical art from the Dutch Golden Age, showcasing vibrant colors and meticulous rendering of natural elements.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "自然题材绘画，植物艺术博物馆级别",
+    "image_info": {
+      "url": "https://npr.brightspotcdn.com/dims4/default/1be3a92/2147483647/strip/true/crop/2000x2573+0+0/resize/880x1132!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8b%2Fba%2F0848af5b4cec8e803615e8de404b%2F02578-loudon-no-55-flowers.jpg",
+      "file_path": "/workspace/imgs/vintage-botanical-lily-illustration-art-print.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 303730,
+      "width": 880,
+      "height": 1132,
+      "total_pixels": 996160,
+      "basic_score": 0.9296664648032303
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "This image is a perfect match for the search query and prompt. It is a detailed, high-quality botanical illustration of lilies, clearly representing 'nature painting' and 'botanical art'. Its vintage nature (dated 1847) and scientific detail make it unequivocally 'museum-level'. The clarity is excellent, showcasing the intricate details and vibrant colors without any watermarks. The overall composition and professional quality are outstanding.",
+      "file_name": "vintage-botanical-lily-illustration-art-print.jpg",
+      "caption": "A vibrant and detailed vintage botanical illustration from 1847, featuring a cluster of different lily species. The artwork meticulously depicts Lilium Japonicum (white), Lilium lancifolium roseum (white with purple spots), Lilium speciosum (orange/red), and Lilium Thunbergianum (dark red with spots), showcasing their unique forms and colors. This exquisite print, likely from a historical collection, exemplifies museum-quality botanical art.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "文艺复兴时期肖像画，博物馆级别的艺术作品",
+    "image_info": {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/435802/1763012/main-image",
+      "file_path": "/workspace/imgs/renaissance_young_man_portrait_painting_museum_art.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 120783,
+      "width": 942,
+      "height": 1200,
+      "total_pixels": 1130400,
+      "basic_score": 0.9081421272766677
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image is a perfect match for the search query and prompt, depicting a high-quality Renaissance portrait painting suitable for a museum or art gallery. Its clarity is excellent, allowing for fine details to be observed, and there are no visible watermarks. The overall presentation and photographic reproduction quality are outstanding.",
+      "file_name": "renaissance_young_man_portrait_painting_museum_art.jpg",
+      "caption": "A captivating Renaissance portrait painting of a young man, possibly from Italy, depicted in a formal setting. He is dressed in a dark, possibly black or deep blue, puffed doublet with intricate pleated sleeves and a subtle white ruffled collar. He wears a distinctive black beret adorned with gold, spike-like embellishments. The subject's right hand rests gently on a small, gold-edged book placed on a richly decorated red architectural pedestal, while his left hand rests confidently on his hip. The background features classical elements, including an arched doorway and a pillar on the left, and a plain wall with a wooden panel on the right, suggesting an interior, possibly a private study or gallery.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "文艺复兴时期肖像画，博物馆级别的艺术作品",
+    "image_info": {
+      "url": "https://cms.througheternity.com/upload/CONF83/20230227/raphael_saint_catherine_alexandria_national_gallery_london.jpg",
+      "file_path": "/workspace/imgs/Raphael-Saint-Catherine-Alexandria-Renaissance-Painting.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 228054,
+      "width": 830,
+      "height": 1081,
+      "total_pixels": 897230,
+      "basic_score": 0.9217270704818173
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image perfectly matches the search query and prompt. It is a high-quality, clear reproduction of a Renaissance-era painting, specifically a portrait-like depiction, and is unequivocally a museum-level artwork. There are no watermarks. The composition and artistic quality are outstanding.",
+      "file_name": "Raphael-Saint-Catherine-Alexandria-Renaissance-Painting.jpg",
+      "caption": "An exquisite oil painting from the High Renaissance period, 'Saint Catherine of Alexandria' by Raphael. The artwork depicts a young woman, believed to be Saint Catherine, with a serene and devout expression, looking upwards towards the heavens. She is adorned in voluminous, richly colored drapery in shades of olive green, blue-grey, crimson, and golden yellow. Her left hand rests gently on her chest, while her right hand is placed upon a broken spiked wheel, her traditional attribute. The background presents a detailed and picturesque landscape with a calm body of water, distant trees, and buildings under a soft, blue sky with scattered clouds, characteristic of Renaissance landscape artistry.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "文艺复兴时期肖像画，博物馆级别的艺术作品",
+    "image_info": {
+      "url": "https://thumbor.ixchosted.com/ghd5KCZfedv6W8BjhZArd0GTHuU=/0x0:3775x4318/full-fit-in/1100x619/filters:format(webp)/https://agsa-prod.s3.amazonaws.com/media/dd/images/30964-HQ-0.7c8acbc.jpg",
+      "file_path": "/workspace/imgs/king_henry_viii_renaissance_portrait_painting.jpg",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 392470,
+      "width": 1100,
+      "height": 1258,
+      "total_pixels": 1383800,
+      "basic_score": 0.9104548550888224
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image is an iconic and exceptionally clear portrait of King Henry VIII, a quintessential example of Renaissance portraiture. It perfectly matches the search query and prompt regarding 'Renaissance portrait painting' and 'museum-level art piece'. The clarity is outstanding, revealing intricate details of the painting, and there are no watermarks. Its historical and artistic significance, combined with the high technical quality of the image, make it an excellent fit.",
+      "file_name": "king_henry_viii_renaissance_portrait_painting.jpg",
+      "caption": "A high-resolution image of a Renaissance-era oil painting depicting King Henry VIII of England, known for his imposing figure and rich attire. He is shown from the waist up, wearing a broad-brimmed cap adorned with pearls and a white feather, and a lavishly embroidered tunic with fur trim. Around his neck hangs a heavy gold chain with a large, ornate pendant featuring green jewels. The dark, somber background highlights the vibrant colors and detailed textures of his clothing. This piece is characteristic of the Tudor period's royal portraiture, often found in art galleries and museums.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "文艺复兴时期肖像画，博物馆级别的艺术作品",
+    "image_info": {
+      "url": "https://theartssociety.org/sites/default/files/Untitled%20design-5.png",
+      "file_path": "/workspace/imgs/renaissance_portrait_paintings_art_gallery.jpg",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 1550770,
+      "width": 1200,
+      "height": 900,
+      "total_pixels": 1080000,
+      "basic_score": 0.9227823865251656
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is highly relevant, perfectly matching the search query and prompt for 'Renaissance portrait painting' and 'museum-grade artwork'. It clearly displays two distinct Renaissance portraits with excellent clarity and no watermarks, making it an ideal representation of the subject.",
+      "file_name": "renaissance_portrait_paintings_art_gallery.jpg",
+      "caption": "A composite image showcasing two distinct Renaissance portrait paintings. On the left, a man with a dark hat and long brown hair is depicted in a red tunic, holding a delicate white flower, set against a vibrant green landscape with trees. On the right, a woman is shown in profile, with an elegant hairstyle adorned with pearls and a prominent forehead, wearing a brown beaded necklace and a gold-colored dress featuring intricate dark botanical patterns on the sleeve, all set against a rich blue background. These museum-quality artworks exemplify the characteristic style and elegance of 15th-century Renaissance portraiture.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "文艺复兴时期肖像画，博物馆级别的艺术作品",
+    "image_info": {
+      "url": "https://artblart.com/wp-content/uploads/2011/11/04_filippo_lippi.jpg",
+      "file_path": "/workspace/imgs/renaissance_profile_portrait_painting.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 298381,
+      "width": 700,
+      "height": 1090,
+      "total_pixels": 763000,
+      "basic_score": 0.9112352961969077
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is a perfect match for the search query 'renaissance portrait painting art gallery' and the prompt 'Renaissance portrait painting, museum-level artwork'. It depicts a classic Renaissance diptych portrait, known for its museum-level quality. The image clarity is excellent, capturing the details of the artwork without any watermarks.",
+      "file_name": "renaissance_profile_portrait_painting.jpg",
+      "caption": "A detailed reproduction of a Renaissance diptych portrait, showcasing a woman in profile with an elaborate headdress and rich red gown, alongside a man's head in profile from another panel. The painting features a detailed background with a landscape, exemplifying the artistic style and grandeur of Italian Renaissance portraiture, characteristic of museum-grade artworks from the period.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "印象派风格的绘画作品，画廊展览级别",
+    "image_info": {
+      "url": "https://www.museum-barberini.de/images/Sammlung_Ausstellung_Header.jpg?w=2000",
+      "file_path": "/workspace/imgs/viewer_at_pointillist_art_gallery_exhibition.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 296544,
+      "width": 2000,
+      "height": 1328,
+      "total_pixels": 2656000,
+      "basic_score": 0.5955376796925764
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image perfectly matches the search query and prompt. It clearly depicts an art gallery exhibition with a painting that, while technically Pointillist (Neo-Impressionist), is closely related to and often associated with the broader Impressionist movement. The image is sharp, well-composed, and free of any watermarks, showcasing professional quality.",
+      "file_name": "viewer_at_pointillist_art_gallery_exhibition.jpg",
+      "caption": "A person with their back to the camera stands in an art gallery, intently observing a large framed painting. The artwork, rendered in a Pointillist or Neo-Impressionist style, depicts a tranquil harbor scene with a sailboat on the water during what appears to be a vibrant sunset or sunrise, reflecting warm hues. The painting is housed in an ornate gold frame and displayed on a muted purple-grey wall, with another artwork partially visible in the background, conveying the atmosphere of a sophisticated museum exhibition.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "印象派风格的绘画作品，画廊展览级别",
+    "image_info": {
+      "url": "https://www.metmuseum.org/-/media/images/exhibitions/2013/impressionismfashionmodernity/gallery-shots/gallery-8-view-1.jpg",
+      "file_path": "/workspace/imgs/impressionist_art_gallery_exhibition.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 27558,
+      "width": 495,
+      "height": 278,
+      "total_pixels": 137610,
+      "basic_score": 0.7210658544944151
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 88.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image is highly relevant to the search query and prompt, clearly depicting an art gallery exhibition with prominent Impressionist/Realist paintings (specifically 'Paris Street; Rainy Day' by Caillebotte). Clarity is excellent for the main subjects, and there are no watermarks. The overall composition and lighting effectively convey the ambiance of a professional museum exhibition.",
+      "file_name": "impressionist_art_gallery_exhibition.jpg",
+      "caption": "A view inside an art gallery or museum exhibition, showcasing large paintings displayed on walls alongside historical costumes encased in clear glass displays. A prominent painting, appearing to be Gustave Caillebotte's 'Paris Street; Rainy Day,' is centrally featured, depicting figures with umbrellas on a wet urban street. The warm lighting highlights the artworks and the polished museum floor, capturing the serene atmosphere of a cultural exhibition.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "印象派风格的绘画作品，画廊展览级别",
+    "image_info": {
+      "url": "https://static01.nyt.com/images/2024/03/27/multimedia/26impressionism-review-01-ltcm/26impressionism-review-01-ltcm-videoSixteenByNineJumbo1600.jpg",
+      "file_path": "/workspace/imgs/woman-viewing-impressionist-art-gallery-exhibition.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 253178,
+      "width": 1600,
+      "height": 900,
+      "total_pixels": 1440000,
+      "basic_score": 0.9023773844782028
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image perfectly matches the search query and prompt, depicting prominent Impressionist paintings (by Renoir and Degas) in a professional art gallery exhibition setting. The clarity is excellent, with no watermarks, and the composition is well-balanced and aesthetically pleasing.",
+      "file_name": "woman-viewing-impressionist-art-gallery-exhibition.jpg",
+      "caption": "A woman with curly hair stands with her back to the viewer, admiring two prominent Impressionist paintings displayed on a deep red wall in an art gallery. The painting on the left is a vibrant scene of people, likely 'Luncheon of the Boating Party' by Pierre-Auguste Renoir, while the painting on the right is a classical ballet scene featuring ballerinas by Edgar Degas, characteristic of his work. The image beautifully captures the experience of a fine art exhibition.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "印象派风格的绘画作品，画廊展览级别",
+    "image_info": {
+      "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SEATDGXJ54BUBM4Q7657SZ2HRY_size-normalized.JPG&w=1440&impolicy=high_res",
+      "file_path": "/workspace/imgs/impressionist_paintings_art_gallery_exhibition.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 232889,
+      "width": 1440,
+      "height": 960,
+      "total_pixels": 1382400,
+      "basic_score": 0.9130903846560108
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, depicting an art gallery exhibition featuring what appear to be Impressionist-style paintings. The clarity is excellent, with sharp details and good lighting. There are no watermarks. The composition is professional, effectively conveying the atmosphere of a museum or gallery exhibit.",
+      "file_name": "impressionist_paintings_art_gallery_exhibition.jpg",
+      "caption": "A well-lit view inside an art gallery, showcasing a selection of framed paintings displayed on a rich, dark red wall. The artworks appear to be from the Impressionist or late 19th-century period, featuring diverse subjects such as domestic scenes and portraits, presented in ornate gold frames. Velvet ropes and a modern upholstered bench are visible in the foreground, indicating an exhibition setting.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "巴洛克风格的艺术画作，博物馆收藏级别",
+    "image_info": {
+      "url": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2022/07/18/2d4f4bc1-32fa-48f3-99a8-a32f675de920_12517ca4.jpg",
+      "file_path": "/workspace/imgs/baroque_art_museum_exhibition_viewers.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 101483,
+      "width": 1024,
+      "height": 778,
+      "total_pixels": 796672,
+      "basic_score": 0.9184186469819534
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is exceptionally relevant to the search query and prompt, clearly depicting a large, ornate painting in what appears to be a Baroque style, displayed within a museum setting. The clarity is excellent, showcasing the details of the artwork and the museum environment. There are no watermarks. The composition is professional, effectively conveying the experience of viewing art in a gallery.",
+      "file_name": "baroque_art_museum_exhibition_viewers.jpg",
+      "caption": "Visitors admire a magnificent Baroque-style oil painting featuring an abundance of vibrant flowers, alongside game and classical elements, set within an ornate gilded frame. The large artwork is displayed prominently in a dimly lit museum gallery, emphasizing its status as a significant collection piece and offering a glimpse into the art appreciation experience.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "巴洛克风格的艺术画作，博物馆收藏级别",
+    "image_info": {
+      "url": "https://sothebys-com.brightspotcdn.com/dims4/default/65de6a5/2147483647/strip/false/crop/2279x1937+0+0/resize/1000x850!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fdotcom%2F96%2F9f%2Fb015290946d9b94a35567096cbc8%2Fthe-taking-of-christ-caravaggio-c.1602%29.jpg",
+      "file_path": "/workspace/imgs/caravaggio_the_taking_of_christ_baroque_painting.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 202697,
+      "width": 1000,
+      "height": 850,
+      "total_pixels": 850000,
+      "basic_score": 0.9267254301918932
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is a quintessential example of Baroque art, specifically Caravaggio's 'The Taking of Christ', which is a masterpiece of museum collection caliber. The style perfectly aligns with 'Baroque art painting' due to its dramatic use of chiaroscuro, realism, and emotional intensity. Clarity is excellent for a digital reproduction of an old master painting, and there are no watermarks. The composition and overall quality are superb.",
+      "file_name": "caravaggio_the_taking_of_christ_baroque_painting.jpg",
+      "caption": "A dramatic Baroque painting, 'The Taking of Christ' by Michelangelo Merisi da Caravaggio, depicts the moment of Jesus's arrest in the Garden of Gethsemane. Judas Iscariot is seen kissing Jesus, indicating his betrayal, while Roman soldiers in shining armor apprehend him. The scene is illuminated by a single, unseen light source, creating intense chiaroscuro that highlights the figures and their expressions of despair, determination, and violence. A figure to the left recoils in alarm, and another in the background holds a lantern. This masterpiece exemplifies the realism and emotional intensity characteristic of 17th-century Baroque art.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "巴洛克风格的艺术画作，博物馆收藏级别",
+    "image_info": {
+      "url": "https://images.liverpoolmuseums.org.uk/styles/dynamic_medium/public/2020-01/collections_baroqueart.jpg",
+      "file_path": "/workspace/imgs/baroque_art_painting_diana_endymion_poussin.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 101818,
+      "width": 1024,
+      "height": 862,
+      "total_pixels": 882688,
+      "basic_score": 0.9209740607706822
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, showcasing a quintessential Baroque art painting (Nicolas Poussin's 'Diana and Endymion') that is clearly of museum collection quality. The image itself boasts excellent clarity, high resolution, and is completely free of watermarks or distracting elements. Its professional quality and rich detail make it an ideal visual asset.",
+      "file_name": "baroque_art_painting_diana_endymion_poussin.jpg",
+      "caption": "A masterful Baroque oil painting by Nicolas Poussin, titled 'Diana and Endymion,' depicts the goddess Diana (Artemis in Greek mythology), recognizable by her crescent moon diadem and quiver, seated on clouds and gazing intently at the youthful, sleeping Endymion, who reclines on the earth. A winged Cupid, bow drawn, observes the scene. The composition is rich with classical elements, featuring hunting dogs and a horse, characteristic of Diana's attributes. The artwork exemplifies the dramatic lighting (chiaroscuro), vibrant colors, and dynamic narrative typical of the 17th-century Baroque period, making it a prominent example of museum-quality classical art.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "巴洛克风格的艺术画作，博物馆收藏级别",
+    "image_info": {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/437329/2196056/main-image",
+      "file_path": "/workspace/imgs/nicolas_poussin_abduction_sabine_women_baroque_art_museum.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 207048,
+      "width": 1200,
+      "height": 892,
+      "total_pixels": 1070400,
+      "basic_score": 0.943355670690418
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is a high-quality reproduction of Nicolas Poussin's 'The Abduction of the Sabine Women,' a quintessential example of French Baroque art. It perfectly aligns with the 'Baroque art painting museum collection' query and prompt, showcasing a dramatic historical scene in the classical Baroque style. The image clarity is excellent, with no watermarks, making it suitable for professional use.",
+      "file_name": "nicolas_poussin_abduction_sabine_women_baroque_art_museum.jpg",
+      "caption": "A dramatic oil painting titled 'The Abduction of the Sabine Women' by Nicolas Poussin, dating from c. 1633-1634. The Baroque masterpiece depicts a chaotic scene with Roman soldiers seizing Sabine women amidst classical architecture and agitated crowds. A figure on a raised platform, likely Romulus, presides over the event, while families are torn apart in the foreground, showcasing intense emotion and dynamic movement characteristic of the Baroque style. This painting is part of a renowned museum collection.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "巴洛克风格的艺术画作，博物馆收藏级别",
+    "image_info": {
+      "url": "https://smarthistory.org/wp-content/uploads/2022/01/Las-Meninas.jpg",
+      "file_path": "/workspace/imgs/Velazquez_Las_Meninas_Baroque_Art_Painting_Museum.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 851910,
+      "width": 1009,
+      "height": 1152,
+      "total_pixels": 1162368,
+      "basic_score": 0.9458541395568792
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt. It features 'Las Meninas' by Diego Velázquez, a quintessential masterpiece of the Baroque period and a globally recognized museum-collection artwork. The digital reproduction is of high clarity and professional quality, with no visible watermarks.",
+      "file_name": "Velazquez_Las_Meninas_Baroque_Art_Painting_Museum.jpg",
+      "caption": "An iconic masterpiece of the Spanish Baroque period, 'Las Meninas' (The Maids of Honour) by Diego Velázquez, painted in 1656. The large oil on canvas depicts the Infanta Margaret Theresa surrounded by her attendants, a majestic dog, two dwarfs, and Velázquez himself, who is seen painting at an easel in a room in the Royal Alcazar of Madrid. Behind them, a mirror reflects King Philip IV and Queen Mariana, whose implied presence is central to the scene. This complex composition is celebrated for its intricate play of illusion, reality, and the artist's role, making it one of the most analyzed works in Western art history. The painting is a cornerstone of the Prado Museum collection in Madrid.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "肖像画作品，艺术博物馆收藏级别",
+    "image_info": {
+      "url": "https://folkartmuseum.org/content/uploads/2016/08/Theodoric_Myers.jpg",
+      "file_path": "/workspace/imgs/19th-century-boy-folk-art-portrait-painting-museum-collection.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 344642,
+      "width": 816,
+      "height": 995,
+      "total_pixels": 811920,
+      "basic_score": 0.9250318076805477
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 92.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is a perfectly relevant example of a portrait painting, with its historical style strongly suggesting it belongs to an 'art museum collection'. The clarity of the photograph is excellent, allowing for detailed observation of the painting's texture and features. There are no watermarks, and the overall professional quality of the image makes it highly suitable for the given query.",
+      "file_name": "19th-century-boy-folk-art-portrait-painting-museum-collection.jpg",
+      "caption": "A solemn and charming portrait painting of a young boy, likely from the 19th century, rendered in a distinct folk art style. The boy, with a pale complexion and dark, curly hair, wears a dark, possibly navy or black, jacket with a wide white collar, grey trousers, and dark gloves. He holds a small woven basket filled with several fish in one hand and a dark hat in the other. The background depicts a serene landscape with a calm body of water, rolling mountains under a vibrant, warm-hued sky, and dense green foliage. A small, partially visible red boat rests on the left side near the water's edge. The oil painting is presented within a dark wooden frame with a gold inner trim.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "肖像画作品，艺术博物馆收藏级别",
+    "image_info": {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/437397/1843832/main-image",
+      "file_path": "/workspace/imgs/rembrandt_self_portrait_art_museum_masterpiece.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 146870,
+      "width": 989,
+      "height": 1200,
+      "total_pixels": 1186800,
+      "basic_score": 0.9057872030042042
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image is a classic example of a portrait painting, specifically Rembrandt's iconic self-portrait from 1660, which is widely recognized as a masterpiece found in major art museum collections (The Metropolitan Museum of Art). It perfectly matches the search query and prompt. The clarity is excellent, allowing for appreciation of the brushwork and details, and there are no watermarks. The overall quality and presentation of the image are highly professional, capturing the artwork beautifully.",
+      "file_name": "rembrandt_self_portrait_art_museum_masterpiece.jpg",
+      "caption": "Rembrandt van Rijn's 'Self-Portrait with a Fur-Trimmed Robe,' painted in 1660, showcases the Dutch Golden Age master's profound self-reflection and signature use of chiaroscuro. This iconic half-length portrait, a prominent piece in the collection of The Metropolitan Museum of Art, features the artist in a somber, pensive mood, rendered with rich impasto and earthy tones, exemplifying a masterpiece typically found in world-class art museum collections.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "肖像画作品，艺术博物馆收藏级别",
+    "image_info": {
+      "url": "https://s3.amazonaws.com/media.harvardartmuseums.org/production/uploaded_files/tour_builder/Index_Portraits2_1.jpg",
+      "file_path": "/workspace/imgs/portrait_paintings_art_museum_collection_tour.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 52485,
+      "width": 433,
+      "height": 650,
+      "total_pixels": 281450,
+      "basic_score": 0.7842593639726968
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 80.0,
+      "watermark_score": 100.0,
+      "overall_score": 88.0,
+      "explanation": "The image is highly relevant to the search query and prompt, clearly depicting a collection of portrait paintings within what appears to be an art museum or historical institution, with an ongoing tour or lecture. The clarity is good, and there are no watermarks. The composition and lighting are professional, contributing to a strong overall quality.",
+      "file_name": "portrait_paintings_art_museum_collection_tour.jpg",
+      "caption": "A male speaker, possibly a docent or curator, addresses a group of attentive visitors in a distinguished art museum or historical gallery. The room features light green walls adorned with numerous framed portrait paintings of various sizes and styles, indicating a significant art collection. A grand crystal chandelier hangs prominently from the ceiling, adding to the room's elegant ambiance. The scene captures an educational moment within a cultural institution.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "肖像画作品，艺术博物馆收藏级别",
+    "image_info": {
+      "url": "https://www.theleidencollection.com/wp-content/uploads/2018/03/MM-103-Michiel-van-Musscher-Portrait-of-the-Artist-in-his-Studio-768x1006.jpg",
+      "file_path": "/workspace/imgs/Portrait-Painting-Artist-Studio-Museum-Collection.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 104124,
+      "width": 768,
+      "height": 1006,
+      "total_pixels": 772608,
+      "basic_score": 0.9002689424308346
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image is a pristine, high-resolution reproduction of a historical portrait painting, fitting perfectly the description of an 'art museum collection' piece. Its clarity is excellent, and it is free of any watermarks.",
+      "file_name": "Portrait-Painting-Artist-Studio-Museum-Collection.jpg",
+      "caption": "A 17th-century European oil painting depicting a young man, likely an artist, seated in his studio. He wears a dark, patterned robe and a cap, holding an artist's palette and brushes in one hand, while gesturing with the other. On a table beside him are an open book displaying technical drawings, an armillary sphere or globe, and other instruments. In the background, an easel with a canvas is visible, suggesting an artist's workspace, while a richly patterned textile drapes from above. This artwork exemplifies the quality found in art museum collections.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "肖像画作品，艺术博物馆收藏级别",
+    "image_info": {
+      "url": "https://www.cincinnatiartmuseum.org/media/30352/collections_callout.jpg",
+      "file_path": "/workspace/imgs/art_museum_portrait_painting_collection.jpg",
+      "img_format": "JPEG",
+      "mode": "CMYK",
+      "file_size": 928042,
+      "width": 500,
+      "height": 300,
+      "total_pixels": 150000,
+      "basic_score": 0.7467444411081448
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 80.0,
+      "watermark_score": 100.0,
+      "overall_score": 85.0,
+      "explanation": "The image is highly relevant to the search query and prompt, clearly depicting a vast collection of paintings, including prominent portraiture, within what appears to be an art museum or gallery setting. The composition effectively showcases the quantity and diversity of the collection. Clarity is good, though some minor softness is present in the distant details. There are no visible watermarks.",
+      "file_name": "art_museum_portrait_painting_collection.jpg",
+      "caption": "A long view of a densely packed art collection displayed on a dark wall, likely within an art museum or gallery. Numerous paintings of various sizes and styles, predominantly with ornate gold frames, are hung closely together on a wire mesh background. A large, richly detailed portrait painting featuring a figure in a red turban and ornate robes, sitting next to a white bird, is prominent in the foreground. The collection includes various genres such as landscapes, additional portraits, and abstract works, giving the impression of an extensive and diverse art exhibition.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "高质量的古典油画作品，适合在画廊中展示",
+    "image_info": {
+      "url": "https://s.alicdn.com/@sc04/kf/H377d7641b9284a519660cf4169607819G.jpg",
+      "file_path": "/workspace/imgs/classical_oil_painting_framed_european_street.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 386945,
+      "width": 750,
+      "height": 750,
+      "total_pixels": 562500,
+      "basic_score": 0.8991974301007606
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 98.0,
+      "watermark_score": 100.0,
+      "overall_score": 97.0,
+      "explanation": "The image perfectly matches the search query and prompt, showcasing a high-quality, classical oil painting in an ornate frame. The clarity is excellent, with fine details visible in both the painting and the frame. There are no watermarks, and the overall presentation is professional and aesthetically pleasing, making it highly suitable for gallery display.",
+      "file_name": "classical_oil_painting_framed_european_street.jpg",
+      "caption": "A vertical, full-shot photograph of a framed classical oil painting depicting a bustling European street scene, likely Dutch or Flemish, in what appears to be winter with light snow on the ground. The painting features tall, gabled red-brick buildings lining a narrow street, with several figures in period attire walking and interacting. The sky is overcast with dramatic clouds, characteristic of classical landscape art. The artwork is presented in an ornate, antique gold-colored frame with intricate detailing, further enhancing its museum or gallery quality aesthetic. The overall impression is one of historical charm and artistic excellence.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "高质量的古典油画作品，适合在画廊中展示",
+    "image_info": {
+      "url": "https://m.media-amazon.com/images/I/91jxeOtxnLL._UF894,1000_QL80_.jpg",
+      "file_path": "/workspace/imgs/vincent_van_gogh_the_siesta_oil_painting.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 187977,
+      "width": 894,
+      "height": 689,
+      "total_pixels": 615966,
+      "basic_score": 0.894923871217308
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 85.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is a clear reproduction of Vincent van Gogh's 'The Siesta,' an iconic oil painting that perfectly fits the 'classical oil painting artwork museum quality' search query and the prompt for high-quality classical oil art suitable for galleries. The image has no watermarks and good overall clarity, faithfully representing the texture and colors of the original artwork.",
+      "file_name": "vincent_van_gogh_the_siesta_oil_painting.jpg",
+      "caption": "A classic oil painting titled 'The Siesta' by Vincent van Gogh, completed in 1890. This Post-Impressionist artwork depicts two peasants, a man and a woman, resting and sleeping in a field of golden haystacks during the harvest, under a vibrant blue sky. In the background, a farmer with oxen and a cart is visible, signifying agricultural labor. The painting is known for its vivid colors, thick brushstrokes characteristic of Van Gogh's style, and its serene, idyllic portrayal of rural life, making it a quintessential museum-quality piece suitable for gallery display.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "古典风景油画，适合画廊展示的高质量作品",
+    "image_info": {
+      "url": "https://cdn2.oceansbridge.com/2019/05/25005659/Classical-Landscape-Benjamin-Haughton-Oil-Painting-1.jpg",
+      "file_path": "/workspace/imgs/classical_landscape_oil_painting_italian_villa.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 140483,
+      "width": 925,
+      "height": 1200,
+      "total_pixels": 1110000,
+      "basic_score": 0.9111244754180472
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 90.0,
+      "clarity_score": 60.0,
+      "watermark_score": 100.0,
+      "overall_score": 70.0,
+      "explanation": "The image is highly relevant to the search query, depicting a classical landscape oil painting that would be suitable for gallery display. While the painting itself appears to be a quality piece, the clarity and resolution of the image of the painting are only moderate, showing some noise and a slight lack of sharpness. There are no watermarks.",
+      "file_name": "classical_landscape_oil_painting_italian_villa.jpg",
+      "caption": "An impressionistic oil painting depicting a classical landscape view, likely Italian. The foreground features a stone balustrade and terraced path, leading the eye through dark, tall cypress trees. In the mid-ground, a grand villa with a light-colored facade and reddish roof is nestled among lush greenery. Distant mountains rise under a soft, diffused sky with hues of pink and pale blue. The painting showcases a serene, atmospheric scene characteristic of traditional landscape art.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "古典风景油画，适合画廊展示的高质量作品",
+    "image_info": {
+      "url": "https://samuelearp.com/wp-content/uploads/2023/05/1200px-August_Wilhelm_Leu_-_Sonniger_Tag_an_einem_norwegischen_Fjord_28186229-1024x730.jpg",
+      "file_path": "/workspace/imgs/classical_landscape_fjord_oil_painting.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 131822,
+      "width": 1024,
+      "height": 730,
+      "total_pixels": 747520,
+      "basic_score": 0.9134070644580483
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 97.0,
+      "explanation": "The image is an exquisite example of a classical landscape oil painting, perfectly aligning with the search query and prompt. Its high resolution and clear details make it ideal for gallery or museum display. There are no watermarks, enhancing its professional quality.",
+      "file_name": "classical_landscape_fjord_oil_painting.jpg",
+      "caption": "A breathtaking classical oil painting depicting a serene fjord landscape. Towering mountains, some capped with snow and shrouded in atmospheric mist, frame a tranquil lake or fjord reflecting the cloudy sky. In the foreground, a small, rustic wooden hut with a sod roof sits on the rocky shore, alongside lush green vegetation. Several figures are gathered by a wooden rowboat on the pebbly beach, and another boat is visible further out on the water. The artwork showcases rich detail, masterful use of light, and a majestic, realistic portrayal of nature, characteristic of a high-quality museum piece.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "古典风景油画，适合画廊展示的高质量作品",
+    "image_info": {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/437436/802673/main-image",
+      "file_path": "/workspace/imgs/Renoir_Impressionist_Landscape_Oil_Painting_Country_Path.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 304000,
+      "width": 1200,
+      "height": 982,
+      "total_pixels": 1178400,
+      "basic_score": 0.9400930763723555
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is a high-quality digital reproduction of a landscape oil painting by Pierre-Auguste Renoir, an iconic Impressionist artist. It strongly aligns with 'landscape oil painting' and is undoubtedly a 'high-quality work suitable for gallery display' and 'museums'. While 'classical art' can be narrowly defined, in a broader sense of historical art suitable for galleries, this piece fits well. The image clarity is excellent, showing brushwork details, and there are no watermarks.",
+      "file_name": "Renoir_Impressionist_Landscape_Oil_Painting_Country_Path.jpg",
+      "caption": "An impressionist oil painting by Pierre-Auguste Renoir, titled 'Country Path (Chemin de la campagne)', depicts a serene landscape with a dirt path winding through lush green trees and bushes under a cloudy sky. In the foreground, several figures, including a woman in a light blue dress, gather on the path, suggesting a leisurely stroll. A distant house with a red roof is visible amidst the foliage, contributing to the rustic, pastoral scene. The painting's rich texture and vibrant yet natural colors exemplify the Impressionist style.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "古典风景油画，适合画廊展示的高质量作品",
+    "image_info": {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/435906/1902185/main-image",
+      "file_path": "/workspace/imgs/classical_landscape_oil_painting_museum_art.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 199768,
+      "width": 1200,
+      "height": 902,
+      "total_pixels": 1082400,
+      "basic_score": 0.9422957130748619
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "This image is a highly relevant, high-quality classical landscape oil painting, perfectly matching the search query and prompt. It exhibits excellent clarity, allowing details of the painting and brushstrokes to be seen, and is free of any watermarks. The composition and subject matter are ideal for a museum or gallery display.",
+      "file_name": "classical_landscape_oil_painting_museum_art.jpg",
+      "caption": "A classical oil painting depicting a serene pastoral landscape. In the foreground, a shepherd tends to a herd of cattle and sheep by the edge of a calm lake, where small boats with figures are visible. To the left, a large, fortified structure or castle stands amidst lush trees, leading to a path. Rolling hills and mountains recede into the hazy distance under a soft, cloudy sky, characteristic of 17th or 18th-century European landscape art.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "海景绘画，海洋艺术画廊展示作品",
+    "image_info": {
+      "url": "https://cdn.shopify.com/s/files/1/0476/8448/5279/products/SeaPinksandPainters_Falmouth.20x24inchesoiloncanvas_72661a45-6464-4976-8779-f4cdf74f80b9_550x825.jpg?v=1636907328",
+      "file_path": "/workspace/imgs/seascape_painting_maritime_art_gallery_coast.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 109633,
+      "width": 550,
+      "height": 452,
+      "total_pixels": 248600,
+      "basic_score": 0.7752261176764457
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 95.0,
+      "overall_score": 95.0,
+      "explanation": "The image is a perfect match for the search query and prompt, being a beautiful seascape painting ideal for an art gallery. The reproduction is clear, showcasing the vibrant colors and detailed brushstrokes of the artwork. The artist's signature is present but is not a disruptive watermark.",
+      "file_name": "seascape_painting_maritime_art_gallery_coast.jpg",
+      "caption": "An impressionistic oil painting capturing a tranquil coastal scene. In the foreground, a vibrant field of pink thrift flowers and green grasses gently slopes down towards a sandy beach. Two figures, seen from behind, are seated amidst the flowers, gazing out at the expansive turquoise sea. Several sailboats with white sails dot the calm waters, while a bright blue sky with wispy clouds and soaring seagulls stretches above. In the distance, a green hillside is crowned with an ancient fort or castle, adding a historical touch to the serene maritime landscape.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "海景绘画，海洋艺术画廊展示作品",
+    "image_info": {
+      "url": "https://fineartconnoisseur.com/wp-content/uploads/2019/04/maritime-art-seascapes-Revolutionary-Frigate-1024x813.jpeg",
+      "file_path": "/workspace/imgs/historic-tall-ship-seascape-painting-maritime-art.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 162239,
+      "width": 1024,
+      "height": 813,
+      "total_pixels": 832512,
+      "basic_score": 0.9269522670168022
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 95.0,
+      "overall_score": 95.0,
+      "explanation": "The image is a perfectly relevant and high-quality painting depicting a historical tall ship in rough seas, which squarely fits 'seascape painting' and 'maritime art'. Its professional execution makes it suitable for a 'gallery' display. The clarity is excellent, and while an artist's signature is present, it is not an intrusive commercial watermark.",
+      "file_name": "historic-tall-ship-seascape-painting-maritime-art.jpg",
+      "caption": "A vibrant oil painting by Patrick O'Brien, depicting a majestic 18th or 19th-century tall ship, possibly a frigate, powerfully sailing through turbulent dark green and blue waves. The ship, with its numerous white sails fully unfurled and billowing in the wind, is shown from a dynamic angle, highlighting its intricate rigging and detailed hull. An American flag, possibly with 13 stars, flies proudly from its stern. In the background, rolling green mountains are visible under a partly cloudy sky, with several seagulls soaring above. A smaller sailing vessel can be faintly seen in the distant waters, adding depth to the maritime scene.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "海景绘画，海洋艺术画廊展示作品",
+    "image_info": {
+      "url": "https://images.saatchiart.com/saatchi/1130877/art/7004369/6073705-HSC00002-7.jpg",
+      "file_path": "/workspace/imgs/vibrant_seascape_oil_painting_ocean_waves_art.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 44455,
+      "width": 770,
+      "height": 578,
+      "total_pixels": 445060,
+      "basic_score": 0.8350433240744289
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 95.0,
+      "overall_score": 95.0,
+      "explanation": "This image is a perfect match for the search query and prompt, being a clear and professionally executed seascape painting suitable for an art gallery display. The clarity is excellent for an artwork, and there are no distracting watermarks, only an artist's signature which is part of the painting itself.",
+      "file_name": "vibrant_seascape_oil_painting_ocean_waves_art.jpg",
+      "caption": "A vibrant oil painting depicting a majestic seascape with dynamic turquoise and blue ocean waves crashing onto a warm, golden sandy beach. The foreground features a formation of layered rocks on the left, while white foam details the powerful movement of the water. The sky above transitions from serene purples to light blues, with a bright, sunlit patch casting radiant yellow beams through the clouds and onto the glistening water. This artistic rendition beautifully captures the raw energy and serene beauty of the ocean.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "海景绘画，海洋艺术画廊展示作品",
+    "image_info": {
+      "url": "https://images.joseartgallery.com/222770/conversions/marine-art-painting-guardian-of-the-storm-thumb.jpg",
+      "file_path": "/workspace/imgs/dramatic_stormy_seascape_lighthouse_painting.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 33993,
+      "width": 340,
+      "height": 453,
+      "total_pixels": 154020,
+      "basic_score": 0.7313755692443351
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is an exceptionally relevant and high-quality painting of a lighthouse in a stormy sea, perfectly matching the 'seascape painting maritime art gallery' query. It exhibits excellent clarity, has no watermarks, and boasts a powerful, professional composition suitable for display.",
+      "file_name": "dramatic_stormy_seascape_lighthouse_painting.jpg",
+      "caption": "A dramatic and powerful painting of a lighthouse in a severe storm, with towering white-capped waves crashing against its base. The robust, reddish-brown lighthouse stands illuminated against a dark, ominous sky, which is streaked with what appears to be lightning or atmospheric turbulence. Small birds are visible flying amidst the stormy conditions, adding to the intense atmosphere of this maritime art piece.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "高质量的木质纹理材质，深胡桃木颜色，3D建模专用",
+    "image_info": {
+      "url": "https://www.sketchuptextureclub.com/public/texture_d/0094-walnut-dark-wood-fine-texture-seamless-hr.jpg",
+      "file_path": "/workspace/imgs/dark_walnut_wood_texture_seamless_high_quality_3d.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 81147,
+      "width": 800,
+      "height": 800,
+      "total_pixels": 640000,
+      "basic_score": 0.8870168850374506
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is an excellent match for the search query and prompt, accurately depicting a high-quality, deep walnut wood texture that appears seamless and is ideal for 3D modeling. It is exceptionally clear, free of any watermarks, and professionally presented.",
+      "file_name": "dark_walnut_wood_texture_seamless_high_quality_3d.jpg",
+      "caption": "A detailed close-up of a seamless dark walnut wood grain texture, showcasing rich, consistent brown tones and a natural, fine-grained pattern. This high-quality surface is ideally suited for use as a digital material in 3D modeling, architectural rendering, interior design visualizations, and other graphic design applications requiring a realistic wood finish.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "高质量的木质纹理材质，深胡桃木颜色，3D建模专用",
+    "image_info": {
+      "url": "https://www.sketchuptextureclub.com/public/texture_d/98-walnut-wood-fine-medium-color-texture-seamless-hr.jpg",
+      "file_path": "/workspace/imgs/dark_walnut_wood_texture_high_quality_3d_model.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 116770,
+      "width": 800,
+      "height": 800,
+      "total_pixels": 640000,
+      "basic_score": 0.8908441718277359
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is highly relevant to both the search query and prompt, accurately depicting a high-quality, dark walnut wood texture. Its clarity and detail are excellent, making it well-suited for 3D modeling applications. There are no visible watermarks, contributing to its professional quality.",
+      "file_name": "dark_walnut_wood_texture_high_quality_3d_model.jpg",
+      "caption": "A seamless, high-resolution close-up photograph showcasing a rich dark walnut wood grain texture. The image features natural vertical wood planks with intricate, flowing patterns and deep, warm brown tones characteristic of polished walnut. This detailed and high-quality material is ideal for use in 3D modeling, rendering, and architectural visualization projects, perfect for applications like flooring, furniture, or wall finishes.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "高质量的木质纹理材质，深胡桃木颜色，3D建模专用",
+    "image_info": {
+      "url": "https://www.cgi-textures.com/media/cache/full_thumb/th/5c/33/62/5c3362a49293c537275068.jpg",
+      "file_path": "/workspace/imgs/dark_walnut_wood_texture_3d_material_sphere.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 125017,
+      "width": 1500,
+      "height": 844,
+      "total_pixels": 1266000,
+      "basic_score": 0.920715849339559
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, showcasing a high-quality, dark walnut wood texture rendered on a sphere, ideal for 3D modeling and material libraries. The clarity and detail are excellent, and there are no watermarks.",
+      "file_name": "dark_walnut_wood_texture_3d_material_sphere.jpg",
+      "caption": "A high-quality 3D rendered image of a perfectly spherical object showcasing a rich, dark walnut wood texture. The surface of the sphere displays intricate natural wood grain patterns, including various shades of deep brown and subtle lighter striations. The texture is detailed and clear, highlighting the realistic appearance of the wood, making it highly suitable for use as a material in 3D modeling, architectural visualization, or product rendering. The sphere is isolated against a clean, plain white background, ensuring the focus remains entirely on the wood texture.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "高质量的木质纹理材质，深胡桃木颜色，3D建模专用",
+    "image_info": {
+      "url": "https://www.lotpixel.com/products/products/free-walnut-wood-texture-1036_4.webp",
+      "file_path": "/workspace/imgs/high_quality_dark_walnut_wood_texture_3d_render.jpg",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 123052,
+      "width": 1080,
+      "height": 1080,
+      "total_pixels": 1166400,
+      "basic_score": 0.9324329611384284
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 92.0,
+      "clarity_score": 98.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is highly relevant to the search query and prompt, showcasing a high-quality wood texture that appears rendered for 3D modeling. The color closely matches a dark walnut, and the clarity is excellent with no watermarks. The subtle reflections enhance its perceived quality as a 3D material.",
+      "file_name": "high_quality_dark_walnut_wood_texture_3d_render.jpg",
+      "caption": "A high-resolution, close-up view of a smooth, dark walnut wood texture with distinct, slightly linear grain patterns. The surface exhibits a subtle, glossy sheen and appears to be a realistic 3D rendered material, perfect for architectural visualization, interior design, or furniture modeling projects.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "高质量的深色木质地板纹理，适合3D渲染，无缝平铺",
+    "image_info": {
+      "url": "https://media.istockphoto.com/id/645858422/photo/seamless-wood-floor-texture-hardwood-floor-texture.jpg?s=612x612&w=0&k=20&c=EUjW3wGhOiwltBJrwNI5LlXVGIwPS_h3DLs05DBRoMM=",
+      "file_path": "/workspace/imgs/dark_wood_floor_texture_seamless_3d_rendering.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 35727,
+      "width": 612,
+      "height": 357,
+      "total_pixels": 218484,
+      "basic_score": 0.7542669440998004
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image is perfectly relevant to the search query, featuring a dark wood floor texture that is seamless and highly suitable for 3D rendering. It is exceptionally clear, detailed, and completely free of watermarks, making it an excellent asset.",
+      "file_name": "dark_wood_floor_texture_seamless_3d_rendering.jpg",
+      "caption": "A high-quality, seamless, dark brown wood plank texture suitable for 3D rendering and architectural visualization. The image displays varying shades of rich dark brown, highlighting natural wood grain details and subtle variations across individual planks, arranged in a traditional staggered floorboard pattern. This tileable background provides a realistic and versatile surface for digital environments.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "高质量的深色木质地板纹理，适合3D渲染，无缝平铺",
+    "image_info": {
+      "url": "https://t4.ftcdn.net/jpg/04/93/69/79/360_F_493697962_jtBpbhpxalu5uutHPgRY6i5enTNMubMg.jpg",
+      "file_path": "/workspace/imgs/dark_brown_wood_floor_seamless_texture_3d.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 65659,
+      "width": 720,
+      "height": 360,
+      "total_pixels": 259200,
+      "basic_score": 0.7629773125665478
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 100.0,
+      "watermark_score": 100.0,
+      "overall_score": 100.0,
+      "explanation": "The image perfectly matches all aspects of the search query and prompt. It's a high-quality, dark brown wood texture that appears seamless and is ideally suited for 3D rendering applications. There are no watermarks or quality issues.",
+      "file_name": "dark_brown_wood_floor_seamless_texture_3d.jpg",
+      "caption": "A high-resolution, close-up view of a dark brown wood grain texture, ideal for seamless tiling in 3D rendering. The pattern exhibits rich, natural horizontal wood lines and variations, suitable for flooring or other wooden surfaces.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "高质量的深色木质地板纹理，适合3D渲染，无缝平铺",
+    "image_info": {
+      "url": "https://www.sketchuptextureclub.com/public/texture_d/45-dark-parquet-flooring-texture-seamless-hr.jpg",
+      "file_path": "/workspace/imgs/dark_walnut_wood_floor_seamless_texture_3d.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 110296,
+      "width": 800,
+      "height": 800,
+      "total_pixels": 640000,
+      "basic_score": 0.8901576896100999
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, showcasing a high-quality, dark wood floor texture that appears seamless and is ideal for 3D rendering. The clarity is excellent, and there are no watermarks.",
+      "file_name": "dark_walnut_wood_floor_seamless_texture_3d.jpg",
+      "caption": "A high-resolution, close-up photograph of a seamless dark walnut wood floor texture. The planks feature rich, deep brown tones with visible, intricate grain patterns, ideal for use as a tileable background or material in 3D rendering, architectural visualization, or digital design projects. The uniform lighting and consistent appearance make it highly suitable for various digital applications requiring a realistic wood surface.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "高质量的深色木质地板纹理，适合3D渲染，无缝平铺",
+    "image_info": {
+      "url": "https://cdnb.artstation.com/p/assets/images/images/046/563/361/large/evren-dark-wood-3d-texture-pbr-material-free-downlox-seamless-high-resolution-4k-7.jpg?1645432260",
+      "file_path": "/workspace/imgs/dark_wood_floor_texture_seamless_3d_render.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 122532,
+      "width": 800,
+      "height": 800,
+      "total_pixels": 640000,
+      "basic_score": 0.8914516693276736
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image is an excellent match for the search query and prompt, featuring a high-quality, dark wood grain texture that appears seamless and is ideal for 3D rendering applications. It has superb clarity and no watermarks.",
+      "file_name": "dark_wood_floor_texture_seamless_3d_render.jpg",
+      "caption": "A high-resolution, top-down view of a dark brown wooden plank texture, showcasing prominent and natural-looking wood grain patterns. The texture is seamless and repeatable, making it perfect for large-scale applications such as 3D floor renderings, digital backgrounds, or surface designs where a consistent, dark wood appearance is desired.",
+      "recommend": true,
+      "error": ""
+    }
+  }
+]

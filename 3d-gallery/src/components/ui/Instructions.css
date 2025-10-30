@@ -1,0 +1,139 @@
+.instructions-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(26, 26, 26, 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  backdrop-filter: blur(4px);
+  animation: fadeIn 0.3s ease;
+}
+
+.instructions-content {
+  background: rgba(26, 26, 26, 0.9);
+  color: #ffffff;
+  padding: 2rem;
+  border-radius: 8px;
+  max-width: 500px;
+  width: 90%;
+  position: relative;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.instructions-close {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: none;
+  border: none;
+  color: #a09990;
+  font-size: 2rem;
+  cursor: pointer;
+  line-height: 1;
+  transition: color 0.3s ease;
+}
+
+.instructions-close:hover {
+  color: #ffffff;
+}
+
+.instructions-title {
+  font-size: 1.25rem;
+  font-weight: 400;
+  margin: 0 0 1.5rem 0;
+  color: #ffffff;
+  text-align: center;
+}
+
+.instructions-list {
+  margin-bottom: 2rem;
+}
+
+.instruction-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem 0;
+}
+
+.instruction-keys {
+  display: flex;
+  gap: 0.25rem;
+}
+
+.instruction-keys kbd {
+  background: #3d352e;
+  color: #ffffff;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  font-family: inherit;
+  font-size: 0.875rem;
+  min-width: 2rem;
+  text-align: center;
+  border: 1px solid #5a5247;
+}
+
+.instruction-icon {
+  font-size: 1.5rem;
+  width: 2rem;
+  text-align: center;
+}
+
+.instruction-desc {
+  color: #ffffff;
+  font-size: 1rem;
+}
+
+.instructions-tip {
+  text-align: center;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  padding-top: 1.5rem;
+}
+
+.instructions-tip p {
+  margin: 0.5rem 0;
+  color: #a09990;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@media (max-width: 768px) {
+  .instructions-content {
+    padding: 1.5rem;
+    margin: 1rem;
+  }
+  
+  .instructions-title {
+    font-size: 1.1rem;
+  }
+  
+  .instruction-item {
+    gap: 0.75rem;
+  }
+  
+  .instruction-keys kbd {
+    padding: 0.2rem 0.4rem;
+    font-size: 0.8rem;
+    min-width: 1.8rem;
+  }
+  
+  .instruction-desc {
+    font-size: 0.9rem;
+  }
+}
