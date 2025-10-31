@@ -1,6 +1,5 @@
 import React, { Suspense, useState, useEffect } from 'react'
 import { Canvas } from '@react-three/fiber'
-import { Physics } from '@react-three/cannon'
 import Gallery from './components/Gallery'
 import LoadingScreen from './components/ui/LoadingScreen'
 import Instructions from './components/ui/Instructions'
@@ -43,13 +42,10 @@ function App() {
               near: 0.1,
               far: 1000
             }}
-            shadows
             className="canvas"
           >
             <Suspense fallback={null}>
-              <Physics gravity={[0, -9.82, 0]}>
-                <Gallery />
-              </Physics>
+              <Gallery />
             </Suspense>
           </Canvas>
           
