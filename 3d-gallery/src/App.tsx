@@ -85,7 +85,6 @@ function App() {
               near: 0.1,
               far: 1000
             }}
-            shadows
             className="canvas"
             onCreated={() => console.log('[App.tsx] Canvas created successfully')}
           >
