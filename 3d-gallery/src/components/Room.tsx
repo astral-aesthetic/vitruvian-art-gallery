@@ -25,7 +25,7 @@ const Room: React.FC = () => {
   return (
     <group>
       {/* Floor */}
-      <mesh position={[0, 0, 0]} receiveShadow>
+      <mesh position={[0, 0, 0]}>
         <planeGeometry args={[12, 12]} />
         {floorTexture ? (
           <meshStandardMaterial 
@@ -43,7 +43,7 @@ const Room: React.FC = () => {
       </mesh>
       
       {/* Front Wall */}
-      <mesh position={[0, 4, -6]} receiveShadow>
+      <mesh position={[0, 4, -6]}>
         <planeGeometry args={[12, 8]} />
         <meshStandardMaterial 
           color="#fdfdfd" 
@@ -53,7 +53,7 @@ const Room: React.FC = () => {
       </mesh>
       
       {/* Back Wall */}
-      <mesh position={[0, 4, 6]} rotation={[0, Math.PI, 0]} receiveShadow>
+      <mesh position={[0, 4, 6]} rotation={[0, Math.PI, 0]}>
         <planeGeometry args={[12, 8]} />
         <meshStandardMaterial 
           color="#fdfdfd" 
@@ -63,7 +63,7 @@ const Room: React.FC = () => {
       </mesh>
       
       {/* Left Wall */}
-      <mesh position={[-6, 4, 0]} rotation={[0, Math.PI / 2, 0]} receiveShadow>
+      <mesh position={[-6, 4, 0]} rotation={[0, Math.PI / 2, 0]}>
         <planeGeometry args={[12, 8]} />
         <meshStandardMaterial 
           color="#fdfdfd" 
@@ -73,7 +73,7 @@ const Room: React.FC = () => {
       </mesh>
       
       {/* Right Wall */}
-      <mesh position={[6, 4, 0]} rotation={[0, -Math.PI / 2, 0]} receiveShadow>
+      <mesh position={[6, 4, 0]} rotation={[0, -Math.PI / 2, 0]}>
         <planeGeometry args={[12, 8]} />
         <meshStandardMaterial 
           color="#fdfdfd" 
@@ -83,7 +83,7 @@ const Room: React.FC = () => {
       </mesh>
       
       {/* Ceiling */}
-      <mesh position={[0, 8, 0]} rotation={[Math.PI / 2, 0, 0]} receiveShadow>
+      <mesh position={[0, 8, 0]} rotation={[Math.PI / 2, 0, 0]}>
         <planeGeometry args={[12, 12]} />
         <meshStandardMaterial 
           color="#f8f8f8" 
