@@ -1,16 +1,17 @@
 import React from 'react'
 import Lighting from './Lighting'
+import Room from './Room'
 import FirstPersonControls from './FirstPersonControls'
 
 const Gallery: React.FC = () => {
   try {
-    console.log('[Gallery] Rendering with FirstPersonControls enabled')
+    console.log('[Gallery] Rendering with Room and FirstPersonControls enabled')
     return (
       <>
         <Lighting />
+        <Room />
         <FirstPersonControls />
         {/* DISABLED COMPONENTS - To be re-enabled:
-          <Room />
           <Sky />
           <Paintings />
         */}
