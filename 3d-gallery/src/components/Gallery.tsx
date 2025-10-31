@@ -1,19 +1,14 @@
 import React from 'react'
 import Room from './Room'
-import Paintings from './Paintings'
 import Lighting from './Lighting'
-import FirstPersonControls from './FirstPersonControls'
 
 const Gallery: React.FC = () => {
   try {
-    console.log('[Gallery] Rendering three.js gallery scene')
+    console.log('[Gallery] Rendering three.js gallery scene - minimal test')
     return (
       <>
         <Lighting />
         <Room />
-        {/* <Sky sunPosition={[0, 1, 0]} /> - Disabled for debugging */}
-        {/* <Paintings /> - Disabled for debugging */}
-        <FirstPersonControls />
       </>
     )
   } catch (err) {
