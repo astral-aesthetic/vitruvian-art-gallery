@@ -1,5 +1,4 @@
-import React from 'react'
-import * as THREE from 'three'
+import React, { useRef } from 'react'
 
 // 参考画作位置配置聚光灯
 const spotlightPositions = [
@@ -25,6 +24,9 @@ const spotlightPositions = [
 ]
 
 const Lighting: React.FC = () => {
+  // Create target objects for each spotlight
+  const targetRefs = useRef(spotlightPositions.map((_, i) => useRef(null)))
+  
   return (
     <>
       {/* 环境光 - 柔和的整体照明 */}
@@ -45,15 +47,11 @@ const Lighting: React.FC = () => {
       />
       
       {/* 为每幅画作配置聚光灯 */}
-      {spotlightPositions.map((spotlight, index) => {
-        const targetObject = new THREE.Object3D()
-        targetObject.position.set(spotlight.target[0], spotlight.target[1], spotlight.target[2])
-        
-        return (
+      {spotlightPositions.map((spotlight, index) => (
+        <group key={index}>
+          {/* 聚光灯 */}
           <spotLight
-            key={index}
             position={spotlight.position}
-            target={targetObject}
             intensity={1.2}
             angle={Math.PI / 6} // 30度角度
             penumbra={0.3} // 边缘软化
@@ -65,9 +63,10 @@ const Lighting: React.FC = () => {
             shadow-camera-fov={45}
             shadow-camera-near={1}
             shadow-camera-far={20}
+            target-position={spotlight.target}
           />
-        )
-      })}
+        </group>
+      ))}
       
       {/* 地板补光 - 增强反射效果 */}
       <rectAreaLight
