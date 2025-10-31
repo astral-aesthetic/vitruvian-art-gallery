@@ -1,5 +1,4 @@
-import React from 'react'
-import { useTexture } from '@react-three/drei'
+import React, { useState, useEffect } from 'react'
 import * as THREE from 'three'
 
 interface PaintingProps {
@@ -10,8 +9,24 @@ interface PaintingProps {
 }
 
 const Painting: React.FC<PaintingProps> = ({ imageSrc, position, rotation, title }) => {
-  const texture = useTexture(imageSrc)
-  
+  const [texture, setTexture] = useState<THREE.Texture | null>(null)
+
+  useEffect(() => {
+    const loader = new THREE.TextureLoader()
+    loader.load(
+      imageSrc,
+      (tex) => {
+        tex.colorSpace = THREE.SRGBColorSpace
+        setTexture(tex)
+      },
+      undefined,
+      (error) => {
+        console.warn(`Failed to load texture: ${imageSrc}`, error)
+        // Continue with solid color fallback
+      }
+    )
+  }, [imageSrc])
+
   return (
     <group position={position} rotation={rotation}>
       {/* 画框 */}
@@ -27,11 +42,19 @@ const Painting: React.FC<PaintingProps> = ({ imageSrc, position, rotation, title
       {/* 画作 */}
       <mesh position={[0, 0, 0.026]} receiveShadow>
         <planeGeometry args={[1.5, 1.2]} />
-        <meshStandardMaterial 
-          map={texture} 
-          roughness={0.7}
-          metalness={0.0}
-        />
+        {texture ? (
+          <meshStandardMaterial 
+            map={texture} 
+            roughness={0.7}
+            metalness={0.0}
+          />
+        ) : (
+          <meshStandardMaterial 
+            color="#8B8680" 
+            roughness={0.7}
+            metalness={0.0}
+          />
+        )}
       </mesh>
       
       {/* 画作标签 (可选) */}
