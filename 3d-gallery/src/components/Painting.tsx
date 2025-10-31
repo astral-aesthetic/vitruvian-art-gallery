@@ -22,7 +22,6 @@ const Painting: React.FC<PaintingProps> = ({ imageSrc, position, rotation, title
       imageSrc,
       (tex) => {
         console.log(`Loaded texture: ${imageSrc}`)
-        tex.colorSpace = THREE.SRGBColorSpace
         setTexture(tex)
         setError(false)
       },

@@ -9,8 +9,8 @@ const Room: React.FC = () => {
     loader.load(
       '/images/abstract_art_museum_exhibition.jpg',
       (tex) => {
-        tex.colorSpace = THREE.SRGBColorSpace
-        tex.wrapS = tex.wrapT = THREE.RepeatWrapping
+        tex.wrapS = THREE.RepeatWrapping
+        tex.wrapT = THREE.RepeatWrapping
         tex.repeat.set(8, 6)
         setFloorTexture(tex)
       },
