@@ -1,16 +1,12 @@
 import React from 'react'
-import Room from './Room'
-import Paintings from './Paintings'
 import Lighting from './Lighting'
-import FirstPersonControls from './FirstPersonControls'
+import Room from './Room'
 
 const Gallery: React.FC = () => {
   return (
     <>
       <Lighting />
       <Room />
-      <Paintings />
-      <FirstPersonControls />
     </>
   )
 }
