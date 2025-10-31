@@ -6,16 +6,13 @@ import FirstPersonControls from './FirstPersonControls'
 
 const Gallery: React.FC = () => {
   try {
-    console.log('[Gallery] Rendering with Room, Paintings, and FirstPersonControls enabled')
+    console.log('[Gallery] Rendering fully enabled gallery')
     return (
       <>
         <Lighting />
         <Room />
         <Paintings />
         <FirstPersonControls />
-        {/* DISABLED COMPONENTS - To be re-enabled:
-          <Sky />
-        */}
       </>
     )
   } catch (err) {
