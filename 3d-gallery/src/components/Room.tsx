@@ -1,57 +1,49 @@
-import React from 'react'
-import { useTexture } from '@react-three/drei'
-import { usePlane } from '@react-three/cannon'
+import React, { useState, useEffect } from 'react'
 import * as THREE from 'three'
 
 const Room: React.FC = () => {
-  const floorTexture = useTexture('/textures/dark_walnut_wood_floor_seamless_texture_3d.jpg')
-  
-  floorTexture.wrapS = floorTexture.wrapT = THREE.RepeatWrapping
-  floorTexture.repeat.set(8, 6)
-  
-  const [floorRef] = usePlane(() => ({
-    rotation: [-Math.PI / 2, 0, 0],
-    position: [0, 0, 0],
-    material: { friction: 0.4, restitution: 0.1 }
-  }))
-  
-  const [frontWallRef] = usePlane(() => ({
-    position: [0, 4, -6],
-    rotation: [0, 0, 0]
-  }))
-  
-  const [backWallRef] = usePlane(() => ({
-    position: [0, 4, 6],
-    rotation: [0, Math.PI, 0]
-  }))
-  
-  const [leftWallRef] = usePlane(() => ({
-    position: [-6, 4, 0],
-    rotation: [0, Math.PI / 2, 0]
-  }))
-  
-  const [rightWallRef] = usePlane(() => ({
-    position: [6, 4, 0],
-    rotation: [0, -Math.PI / 2, 0]
-  }))
-  
-  const [ceilingRef] = usePlane(() => ({
-    rotation: [Math.PI / 2, 0, 0],
-    position: [0, 8, 0]
-  }))
+  const [floorTexture, setFloorTexture] = useState<THREE.Texture | null>(null)
+
+  useEffect(() => {
+    const loader = new THREE.TextureLoader()
+    loader.load(
+      '/images/abstract_art_museum_exhibition.jpg',
+      (tex) => {
+        tex.colorSpace = THREE.SRGBColorSpace
+        tex.wrapS = tex.wrapT = THREE.RepeatWrapping
+        tex.repeat.set(8, 6)
+        setFloorTexture(tex)
+      },
+      undefined,
+      (error) => {
+        console.warn('Failed to load floor texture', error)
+        // Continue without texture
+      }
+    )
+  }, [])
 
   return (
     <group>
-      <mesh ref={floorRef} receiveShadow>
+      {/* Floor */}
+      <mesh position={[0, 0, 0]} receiveShadow>
         <planeGeometry args={[12, 12]} />
-        <meshStandardMaterial 
-          map={floorTexture} 
-          roughness={0.3}
-          metalness={0.1}
-        />
+        {floorTexture ? (
+          <meshStandardMaterial 
+            map={floorTexture} 
+            roughness={0.3}
+            metalness={0.1}
+          />
+        ) : (
+          <meshStandardMaterial 
+            color="#8B7355" 
+            roughness={0.3}
+            metalness={0.1}
+          />
+        )}
       </mesh>
       
-      <mesh ref={frontWallRef} receiveShadow>
+      {/* Front Wall */}
+      <mesh position={[0, 4, -6]} receiveShadow>
         <planeGeometry args={[12, 8]} />
         <meshStandardMaterial 
           color="#fdfdfd" 
@@ -60,7 +52,8 @@ const Room: React.FC = () => {
         />
       </mesh>
       
-      <mesh ref={backWallRef} receiveShadow>
+      {/* Back Wall */}
+      <mesh position={[0, 4, 6]} rotation={[0, Math.PI, 0]} receiveShadow>
         <planeGeometry args={[12, 8]} />
         <meshStandardMaterial 
           color="#fdfdfd" 
@@ -69,7 +62,8 @@ const Room: React.FC = () => {
         />
       </mesh>
       
-      <mesh ref={leftWallRef} receiveShadow>
+      {/* Left Wall */}
+      <mesh position={[-6, 4, 0]} rotation={[0, Math.PI / 2, 0]} receiveShadow>
         <planeGeometry args={[12, 8]} />
         <meshStandardMaterial 
           color="#fdfdfd" 
@@ -78,7 +72,8 @@ const Room: React.FC = () => {
         />
       </mesh>
       
-      <mesh ref={rightWallRef} receiveShadow>
+      {/* Right Wall */}
+      <mesh position={[6, 4, 0]} rotation={[0, -Math.PI / 2, 0]} receiveShadow>
         <planeGeometry args={[12, 8]} />
         <meshStandardMaterial 
           color="#fdfdfd" 
@@ -87,7 +82,8 @@ const Room: React.FC = () => {
         />
       </mesh>
       
-      <mesh ref={ceilingRef} receiveShadow>
+      {/* Ceiling */}
+      <mesh position={[0, 8, 0]} rotation={[Math.PI / 2, 0, 0]} receiveShadow>
         <planeGeometry args={[12, 12]} />
         <meshStandardMaterial 
           color="#f8f8f8" 

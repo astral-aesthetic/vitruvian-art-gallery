@@ -10,19 +10,28 @@ interface PaintingProps {
 
 const Painting: React.FC<PaintingProps> = ({ imageSrc, position, rotation, title }) => {
   const [texture, setTexture] = useState<THREE.Texture | null>(null)
+  const [error, setError] = useState<boolean>(false)
 
   useEffect(() => {
+    // Reset state when image source changes
+    setTexture(null)
+    setError(false)
+
     const loader = new THREE.TextureLoader()
     loader.load(
       imageSrc,
       (tex) => {
+        console.log(`Loaded texture: ${imageSrc}`)
         tex.colorSpace = THREE.SRGBColorSpace
         setTexture(tex)
+        setError(false)
       },
       undefined,
       (error) => {
         console.warn(`Failed to load texture: ${imageSrc}`, error)
-        // Continue with solid color fallback
+        setError(true)
+        setTexture(null)
+        // Will render fallback color
       }
     )
   }, [imageSrc])
