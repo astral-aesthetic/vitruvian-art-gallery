@@ -1,14 +1,18 @@
 import React from 'react'
-import Room from './Room'
 import Lighting from './Lighting'
 
 const Gallery: React.FC = () => {
   try {
-    console.log('[Gallery] Rendering three.js gallery scene - minimal test')
+    console.log('[Gallery] Rendering minimal scene - just lighting')
     return (
       <>
         <Lighting />
-        <Room />
+        {/* DISABLED COMPONENTS - To be re-enabled:
+          <Room />
+          <Sky />
+          <Paintings />
+          <FirstPersonControls />
+        */}
       </>
     )
   } catch (err) {
