@@ -13,7 +13,7 @@ const Gallery: React.FC = () => {
         <Sky sunPosition={[0, 1, 0]} />
         <Lighting />
         <Room />
-        <Paintings />
+        {/* <Paintings /> - Disabled for debugging */}
         <FirstPersonControls />
       </>
     )
