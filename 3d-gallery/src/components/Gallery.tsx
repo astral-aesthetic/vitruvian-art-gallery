@@ -1,24 +1,20 @@
 import React from 'react'
-import Lighting from './Lighting'
 import Room from './Room'
 import Paintings from './Paintings'
+import Lighting from './Lighting'
 import FirstPersonControls from './FirstPersonControls'
+import { Sky } from '@react-three/drei'
 
 const Gallery: React.FC = () => {
-  try {
-    console.log('[Gallery] Rendering fully enabled gallery')
-    return (
-      <>
-        <Lighting />
-        <Room />
-        <Paintings />
-        <FirstPersonControls />
-      </>
-    )
-  } catch (err) {
-    console.error('[Gallery] Render error:', err)
-    throw err
-  }
+  return (
+    <>
+      <Sky sunPosition={[0, 1, 0]} />
+      <Lighting />
+      <Room />
+      <Paintings />
+      <FirstPersonControls />
+    </>
+  )
 }
 
 export default Gallery

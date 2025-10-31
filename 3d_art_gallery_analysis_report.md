@@ -4,10 +4,10 @@
 The **3D Art Gallery Online** is a web-based 3D virtual art gallery built using modern web technologies. The project creates an immersive first-person experience where users can navigate through a virtual gallery space to view artwork displayed on walls.
 
 ## Repository Information
-- **Repository**: https://github.com/breamiller/vitruvian-love
+- **Repository**: https://github.com/supermanhe/3DArtGalleryOnline
 - **Owner**: supermanhe
 - **Last Commit**: Initial commit of 3D Art Gallery project (7f33cdd)
-- **Date**: October 27, 2025
+- **Date**: June 10, 2025
 
 ## Project Structure
 
@@ -84,9 +84,9 @@ canvas {
 
 ##### Materials and Textures
 - **Floor**: Wood planks texture from Polyhaven CDN with 10x tiling
-- **Walls**: Black standard material (0xcccccc)
-- **Ceiling**: Very dark black (0x050505)
-- **Bench**: Gold metal-like material (0x5A5A5A)
+- **Walls**: Light grey standard material (0xcccccc)
+- **Ceiling**: Very dark grey (0x050505)
+- **Bench**: Dark grey metal-like material (0x5A5A5A)
 
 ##### Gallery Features
 - **Central Bench**: Large scaled seating in gallery center
