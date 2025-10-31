@@ -1,6 +1,7 @@
 import React from 'react'
 import Lighting from './Lighting'
 import Room from './Room'
+import Paintings from './Paintings'
 import FirstPersonControls from './FirstPersonControls'
 
 const Gallery: React.FC = () => {
@@ -8,6 +9,7 @@ const Gallery: React.FC = () => {
     <>
       <Lighting />
       <Room />
+      <Paintings />
       <FirstPersonControls />
     </>
   )
